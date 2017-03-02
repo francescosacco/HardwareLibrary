@@ -1,2 +1,2 @@
 # HardwareLibrary
-Hardware Libraries for Altium, OrCad, etc.
+Hardware Libraries for Altium.
