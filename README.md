@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-04-07 - Added Integrated Device Technology
+  * Added IDT74FCT3807 - 1 to 10 Clock Driver.
+
 * 2017-03-21 - Changed README.MD and added Datasheets
   * Added TMS320F28335 datasheet.
   * Added SN65LVDS389.
