@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-04-11 - Added Texas Instruments
+  * Added TPS54325PWP - Synchronous Step Down Switcher with Integrated FET.
+
 * 2017-04-07 - Added Integrated Device Technology
   * Added IDT74FCT3807 - 1 to 10 Clock Driver.
 
