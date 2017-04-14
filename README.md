@@ -1,6 +1,11 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-04-14 - Added TDK, Basic and TE Connectivity
+  * Added SPM6530-2R2M at TDK - 2.2uH 20% at 100kHz 8.4A.
+  * Added Test Point at Basic.
+  * Added x-103741-x at TE Connectivity - CONN Breakaway Single Row.
+
 * 2017-04-11 - Added Texas Instruments
   * Added TPS54325PWP - Synchronous Step Down Switcher with Integrated FET.
 
