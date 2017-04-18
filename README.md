@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-04-18 - Added and Fixed TE Connectivity
+  * Added x-146256-x - CONN Header Breakaway.
+  * Fixed hole size of x-103741-x.
+
 * 2017-04-14 - Added TDK, Basic and TE Connectivity
   * Added SPM6530-2R2M at TDK - 2.2uH 20% at 100kHz 8.4A.
   * Added Test Point at Basic.
