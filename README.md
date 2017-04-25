@@ -1,6 +1,23 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-04-25 - Fixed TE Connectivity, Trenz Electronics, Basic, IDT, TDK, Texas Instruments, Zilog.
+  * Fixed 'Default Designator' for 5569380-1 at TE Connectivity.
+  * Fixed 'Default Designator' for 6339168-1 at TE Connectivity.
+  * Fixed 'Default Designator' for TE0712 at Trenz Electronics.
+  * Fixed 'Default Designator' for all components at Basic.
+  * Fixed 'Default Designator' for IDT74FCT3807 at IDT.
+  * Fixed 'Default Designator' for SPM6530T-2R2M at TDK.
+  * Fixed 'Default Designator' for SN65LVDS389DB at Texas Instruments.
+  * Fixed 'Default Designator' for SN65LVDS9637DR at Texas Instruments.
+  * Fixed 'Default Designator' for SN65LVDS9638DR at Texas Instruments.
+  * Fixed 'Default Designator' for TMS320F28335 at Texas Instruments.
+  * Fixed 'Default Designator' for TPS54325PWP at Texas Instruments.
+  * Fixed 'Default Designator' for Z84C00xxAEG at Zilog.
+  * Fixed 'Default Designator' for Z84C00xxPEG at Zilog.
+  
+
+
 * 2017-04-18 - Added and Fixed TE Connectivity
   * Added x-146256-x - CONN Header Breakaway.
   * Fixed hole size of x-103741-x.
