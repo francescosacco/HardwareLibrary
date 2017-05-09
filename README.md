@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-05-09 - Added Texas Instruments.
+  * Added TPS27082L at Texas Instruments - PFET Load Switch 1.2V to 8V, 3A.
+
 * 2017-04-25 - Fixed TE Connectivity, Trenz Electronics, Basic, IDT, TDK, Texas Instruments, Zilog.
   * Fixed 'Default Designator' for 5569380-1 at TE Connectivity.
   * Fixed 'Default Designator' for 6339168-1 at TE Connectivity.
@@ -15,8 +18,6 @@ Hardware Libraries for Altium.
   * Fixed 'Default Designator' for TPS54325PWP at Texas Instruments.
   * Fixed 'Default Designator' for Z84C00xxAEG at Zilog.
   * Fixed 'Default Designator' for Z84C00xxPEG at Zilog.
-  
-
 
 * 2017-04-18 - Added and Fixed TE Connectivity
   * Added x-146256-x - CONN Header Breakaway.
