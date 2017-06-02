@@ -1,6 +1,12 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-06-02 - Added Basic, Pulse Electronics and TE Connectivity.
+  * Added Test Point SMD at Basic.
+  * Added Crystal HC49S at Basic.
+  * Added H1102(NL) at Pulse Electronics.
+  * Added 6116173-1 at TE Connectivity - RJ45 1 Port.
+
 * 2017-05-09 - Added Texas Instruments.
   * Added TPS27082L at Texas Instruments - PFET Load Switch 1.2V to 8V, 3A.
 
@@ -19,7 +25,7 @@ Hardware Libraries for Altium.
   * Fixed 'Default Designator' for Z84C00xxAEG at Zilog.
   * Fixed 'Default Designator' for Z84C00xxPEG at Zilog.
 
-* 2017-04-18 - Added and Fixed TE Connectivity
+* 2017-04-18 - Added and Fixed TE Connectivity.
   * Added x-146256-x - CONN Header Breakaway.
   * Fixed hole size of x-103741-x.
 
