@@ -1,6 +1,11 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-07-07 - Add Everlight and change Texas Instruments.
+  * Change SN74LVC1G32 and SN74LVC1G04 at Texas Instruments.
+  * Add TPS22810 at Texas Instruments.
+  * Add 4N25 at Everlight.
+
 * 2017-07-04 - Add Integrated Silicon Solution Inc Library and Texas Instruments.
   * Add IS62C256AL at Integrated Silicon Solution Inc.
   * Add SN74LVC1G32 at Texas Instruments.
