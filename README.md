@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-07/21 - Add SN74LVC1GX04 and SN74LVC2G32 at Texas Instruments.
+  * Add SN74LVC1GX04 at Texas Instruments. Close #1
+  * Add SN74LVC2G32 at Texas Instruments. Close #3
+
 * 2017-07-07 - Add Everlight and change Texas Instruments.
   * Change SN74LVC1G32 and SN74LVC1G04 at Texas Instruments.
   * Add TPS22810 at Texas Instruments.
