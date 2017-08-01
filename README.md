@@ -1,7 +1,15 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2017-07/21 - Add SN74LVC1GX04 and SN74LVC2G32 at Texas Instruments.
+* 2017-08-01 - Add Ferrite Bead at Basic and SN74LVC1G00 at Texas Instruments.
+  * Add Ferrite Bead SMD at Basic library.
+  * Add SN74LVC1G00 at Texas Instruments.
+  * Change SN74LVC1G04 to create a part to power source.
+  * Change SN74LVC1G32 to create a part to power source.
+  * Change SN74LVC1GU04 to create a part to power source.
+  * Change SN74LVC2G32 to create a part to power source.
+
+* 2017-07-21 - Add SN74LVC1GX04 and SN74LVC2G32 at Texas Instruments.
   * Add SN74LVC1GX04 at Texas Instruments. Close #1
   * Add SN74LVC2G32 at Texas Instruments. Close #3
 
