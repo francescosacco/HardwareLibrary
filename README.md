@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-08-04 - Fix TE0712 at Trenz Electronics and add BC-817 at Basic.
+  * Fix pin numbers in TE0712.
+  * Add BC-817 transistor at Basic library.
+
 * 2017-08-01 - Add Ferrite Bead at Basic and SN74LVC1G00 at Texas Instruments.
   * Add Ferrite Bead SMD at Basic library.
   * Add SN74LVC1G00 at Texas Instruments.
