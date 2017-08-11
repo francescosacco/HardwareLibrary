@@ -1,6 +1,8 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-08-11 - Change pin size of Test Points.
+
 * 2017-08-04 - Fix TE0712 at Trenz Electronics and add BC-817 at Basic.
   * Fix pin numbers in TE0712.
   * Add BC-817 transistor at Basic library.
