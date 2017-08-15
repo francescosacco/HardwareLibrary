@@ -1,7 +1,7 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2017-08-15 - Added SMD Inductor at Basic.
+* 2017-08-15 - Add SMD Inductor at Basic and change 4N25 at Everlight.
 
 * 2017-08-11 - Change pin size of Test Points.
 
