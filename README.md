@@ -1,6 +1,8 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-08-15 - Added SMD Inductor at Basic.
+
 * 2017-08-11 - Change pin size of Test Points.
 
 * 2017-08-04 - Fix TE0712 at Trenz Electronics and add BC-817 at Basic.
