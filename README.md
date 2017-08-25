@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-08-22 - Create ON Semiconductors and add NUP4202W1.
+  * Create ON Semiconductors library.
+  * Add NUP4202W1 ESD Protection Diodes with Low Clamping Voltage at ON Semiconductors.
+
 * 2017-08-22 - Add standard Diode.
 
 * 2017-08-15 - Add SMD Inductor at Basic and change 4N25 at Everlight.
