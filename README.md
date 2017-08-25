@@ -1,9 +1,11 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2017-08-22 - Create ON Semiconductors and add NUP4202W1.
+* 2017-08-22 - Create ON Semiconductors and Molex.
   * Create ON Semiconductors library.
   * Add NUP4202W1 ESD Protection Diodes with Low Clamping Voltage at ON Semiconductors.
+  * Create Modex library.
+  * Add 22-04-1021 - KK 5045-2 at Molex.
 
 * 2017-08-22 - Add standard Diode.
 
