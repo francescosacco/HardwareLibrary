@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-08-29 - Create Chyao Shiunn Electronics and add JS-1150-06.
+  * Create Chyao Shiunn Electronics.
+  * Add JS-1150-06 at Chyao Shiunn Electronics.
+
 * 2017-08-22 - Create ON Semiconductors and Molex.
   * Create ON Semiconductors library.
   * Add NUP4202W1 ESD Protection Diodes with Low Clamping Voltage at ON Semiconductors.
