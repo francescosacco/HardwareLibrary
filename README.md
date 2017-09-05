@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-09-05 - Create ST Microelectronics and add ST1S41.
+  * Create ST Microelectronics.
+  * Add ST1S41 at ST Microelectronics.
+
 * 2017-08-29 - Create Chyao Shiunn Electronics and add JS-1150-06.
   * Create Chyao Shiunn Electronics.
   * Add JS-1150-06 at Chyao Shiunn Electronics.
