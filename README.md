@@ -1,9 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2017-09-08 - Create Coilcraft and add XAL5030.
+* 2017-09-08 - Create Coilcraft, add XAL5030 and 1812 footprint.
   * Create Coilcraft library.
   * Add XAL5030 at Coilcraft.
+  * Add 1812 footprint at Basic.
 
 * 2017-09-05 - Create ST Microelectronics and add ST1S41.
   * Create ST Microelectronics library.
