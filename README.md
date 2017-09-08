@@ -1,8 +1,12 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-09-08 - Create Coilcraft and add XAL5030.
+  * Create Coilcraft library.
+  * Add XAL5030 at Coilcraft.
+
 * 2017-09-05 - Create ST Microelectronics and add ST1S41.
-  * Create ST Microelectronics.
+  * Create ST Microelectronics library.
   * Add ST1S41 at ST Microelectronics.
 
 * 2017-08-29 - Create Chyao Shiunn Electronics and add JS-1150-06.
