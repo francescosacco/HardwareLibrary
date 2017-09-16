@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-09-15 - Remove Test Point from Basic.
+  * Remove Test Point Line from Basic Library.
+
 * 2017-09-08 - Create Coilcraft, add XAL5030 and 1812 footprint.
   * Create Coilcraft library.
   * Add XAL5030 at Coilcraft.
