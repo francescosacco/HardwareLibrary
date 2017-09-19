@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-09-18 - Add RLF12560 and SMD 1808 footprint.
+  * Add inductor RLF12560 at TDK library.
+  * Add SMD 1808 footprint at Basic library.
+
 * 2017-09-15 - Remove Test Point from Basic.
   * Remove Test Point Line from Basic Library.
 
