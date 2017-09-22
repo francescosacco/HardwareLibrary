@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-09-22 - Fixed ON Semiconductors library.
+  * Fixed NUP4202W1 at ON Semiconductors.
+
 * 2017-09-18 - Add RLF12560 and SMD 1808 footprint.
   * Add inductor RLF12560 at TDK library.
   * Add SMD 1808 footprint at Basic library.
