@@ -1,8 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2017-09-26 - Reduce 0603 resistor size.
+* 2017-09-26 - Reduce 0603 resistor size and add Panasonic.
   * Reduce the 0603 resistor size from Basic.
+  * Add Chip Resistor Array at Panasonic.
 
 * 2017-09-22 - Fix ON Semiconductors library.
   * Fix NUP4202W1 at ON Semiconductors.
