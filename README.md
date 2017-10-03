@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-10-03 - Add SN74HC00 to Texas Instruments.
+  * Add SN74HC00 (2-Input NAND gate) at Texas Instruments library.
+
 * 2017-09-29 - Add 3D body to Texas component and Fixed TDK partnumber.
   * Add 3D body to SN65LVDS389 at Texas Instruments library.
   * Fix RLF12560 partnumber at TDK library.
