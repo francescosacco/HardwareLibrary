@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-10-06 - Add SN74HC02 to Texas Instruments.
+  * Add SN74HC02 (2-Input NOR Gates) at Texas Instruments library.
+
 * 2017-10-03 - Add SN74HC00 to Texas Instruments.
   * Add SN74HC00 (2-Input NAND gate) at Texas Instruments library.
 
