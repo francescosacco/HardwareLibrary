@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-10-10 - Add SN74HC04 to Texas Instruments.
+  * Add SN74HC04 (Hex Inverters) at Texas Instruments library.
+
 * 2017-10-06 - Add SN74HC02 to Texas Instruments.
   * Add SN74HC02 (2-Input NOR Gates) at Texas Instruments library.
 
