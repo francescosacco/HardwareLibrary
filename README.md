@@ -1,8 +1,11 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2017-09-22 - Fixed ON Semiconductors library.
-  * Fixed NUP4202W1 at ON Semiconductors.
+* 2017-09-26 - Reduce 0603 resistor size.
+  * Reduce the 0603 resistor size from Basic.
+
+* 2017-09-22 - Fix ON Semiconductors library.
+  * Fix NUP4202W1 at ON Semiconductors.
 
 * 2017-09-18 - Add RLF12560 and SMD 1808 footprint.
   * Add inductor RLF12560 at TDK library.
