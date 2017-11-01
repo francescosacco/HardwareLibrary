@@ -14,6 +14,9 @@ Hardware Libraries for Altium.
 * 2017-11-03 - Add SN74HC21 to Texas Instruments.
   * Add SN74HC21 (Dual 4-Input Positive-AND Gates) at Texas Instruments.
 
+* 2017-11-01 - Add SN74LS51 to Texas Instruments.
+  * Add SN74LS51 (AND-OR-INVERTER Gate) at Texas Instruments library.
+
 * 2017-10-24 - Add SN74HC86 to Texas Instruments.
   * Add SN74HC86 (Quadruple 2-Input Exclusive-OR Gates) to Texas Instruments library.
 
