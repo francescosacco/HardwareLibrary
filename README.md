@@ -1,12 +1,15 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-11-14 - Add SN74HC132 to Texas Instruments.
+  * Add SN74HC132 (Quadruple Positive-NAND Gates With Schmitt-Trigger Inputs) at Texas Instruments library.
+
 * 2017-11-13 - Add SN74HC08 and SN74HC14 to Texas Instruments.
   * Add SN74HC14 (Hex Schmitt-Trigger Inverters) at Texas Instruments library.
   * Add SN74HC08 (2-Input AND Gates) at Texas Instruments library.
 
-* 2017-11-03 - Add SN74HC132 to Texas Instruments.
-  * Add SN74HC132 (Quadruple Positive-NAND Gates With Schmitt-Trigger Inputs) at Texas Instruments library.
+* 2017-11-03 - Add SN74HC21 to Texas Instruments.
+  * Add SN74HC21 (Dual 4-Input Positive-AND Gates) at Texas Instruments.
 
 * 2017-10-24 - Add SN74HC86 to Texas Instruments.
   * Add SN74HC86 (Quadruple 2-Input Exclusive-OR Gates) to Texas Instruments library.
