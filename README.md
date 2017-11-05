@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-09-29 - Add 3D body to Texas component.
+  * Add 3D body to SN65LVDS389 at Texas Instruments library.
+
 * 2017-09-26 - Reduce 0603 resistor size and add Panasonic.
   * Reduce the 0603 resistor size from Basic.
   * Add Chip Resistor Array at Panasonic.
