@@ -13,7 +13,10 @@ Hardware Libraries for Altium.
 
 * 2017-11-07 - Add SN74LS09 to Texas Instruments.
   * Add SN74LS09 (Quadruple 2-Input Positive-AND Gates Open Collector Outputs) at Texas Instruments library.
-  
+
+* 2017-11-06 - Change Test Point footprint size at Basic.
+  * Change Test Point pad size at Basic library.
+
 * 2017-11-03 - Add SN74HC21 to Texas Instruments.
   * Add SN74HC21 (Dual 4-Input Positive-AND Gates) at Texas Instruments.
 
