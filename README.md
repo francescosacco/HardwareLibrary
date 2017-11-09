@@ -8,6 +8,9 @@ Hardware Libraries for Altium.
   * Add SN74HC14 (Hex Schmitt-Trigger Inverters) at Texas Instruments library.
   * Add SN74HC08 (2-Input AND Gates) at Texas Instruments library.
 
+* 2017-11-09 - Add 2917 footprint at Basic.
+  * Add 2917 footprint at Basic.
+
 * 2017-11-07 - Add SN74LS09 to Texas Instruments.
   * Add SN74LS09 (Quadruple 2-Input Positive-AND Gates Open Collector Outputs) at Texas Instruments library.
   
