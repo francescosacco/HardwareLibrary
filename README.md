@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-10-17 - Add 74HC14 to Texas Instruments.
+  * Add SN74HC14 (Hex Schmitt-Trigger Inverters) at Texas Instruments library.
+
 * 2017-10-13 - Add 74HC08 to Texas Instruments.
   * Add SN74HC08 (2-Input AND Gates) at Texas Instruments library.
 
