@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2017-12-05 - Fix 2917 footprint at Basic.
+  * Fix 2917 footprint at Basic.
+
 * 2017-11-14 - Add SN74HC132 to Texas Instruments.
   * Add SN74HC132 (Quadruple Positive-NAND Gates With Schmitt-Trigger Inputs) at Texas Instruments library.
 
