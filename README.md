@@ -1,7 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-*2017-12-29 - Add CD74HC27 to Texas Instruments.
+* 2018-01-02 - Add CD74HC30 to Texas Instruments.
+  * Add CD74HC30 (8-Input NAND Gate) at Texas Instruments library.
+
+* 2017-12-29 - Add CD74HC27 to Texas Instruments.
   * Add CD74HC27 (Triple 3-Input NOR Gate) at Texas Instruments library.
 
 * 2017-12-05 - Fix 2917 footprint at Basic.
