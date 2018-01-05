@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-01-05 - Add SN74HC74 to Texas Instruments.
+  * Add SN74HC74 (Dual D-Type Positive-Edge-Triggered Flip-Flops With Clear and Preset) at Texas Instruments library.
+
 * 2018-01-02 - Add CD74HC30 to Texas Instruments.
   * Add CD74HC30 (8-Input NAND Gate) at Texas Instruments library.
 
