@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-01-09 - Add SN74HC125 to Texas Instruments.
+  * Add SN74HC125 (Quadruple Bus Buffer Gates With 3-State Outputs) at Texas Instruments library.
+
 * 2018-01-05 - Add SN74HC74 to Texas Instruments.
   * Add SN74HC74 (Dual D-Type Positive-Edge-Triggered Flip-Flops With Clear and Preset) at Texas Instruments library.
 
