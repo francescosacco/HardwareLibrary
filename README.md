@@ -1,6 +1,22 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-01-16 - Add NX5032GA at NDK library.
+  * Add 10.000MHz crystal (NX5032GA-10.000M-LN-CD-1) at NDK library.
+  * Add 12.000MHz crystal (NX5032GA-12.000M-LN-CD-1) at NDK library.
+  * Add 12.288MHz crystal (NX5032GA-12.288M-LN-CD-1) at NDK library.
+  * Add 13.560MHz crystal (NX5032GA-13.560M-LN-CD-1) at NDK library.
+  * Add 16.000MHz crystal (NX5032GA-16.000M-LN-CD-1) at NDK library.
+  * Add 16.348MHz crystal (NX5032GA-16.384M-LN-CD-1) at NDK library.
+  * Add 20.000MHz crystal (NX5032GA-20.000M-LN-CD-1) at NDK library.
+  * Add 24.000MHz crystal (NX5032GA-24.000M-LN-CD-1) at NDK library.
+  * Add 25.000MHz crystal (NX5032GA-25.000M-LN-CD-1) at NDK library.
+  * Add 27.000MHz crystal (NX5032GA-27.000M-LN-CD-1) at NDK library.
+  * Add 30.000MHz crystal (NX5032GA-30.000M-LN-CD-1) at NDK library.
+  * Add 32.000MHz crystal (NX5032GA-32.000M-LN-CD-1) at NDK library.
+  * Add 40.000MHz crystal (NX5032GA-40.000M-LN-CD-1) at NDK library.
+  * Add 48.000MHz crystal (NX5032GA-48.000M-LN-CD-1) at NDK library.
+
 * 2018-01-09 - Add SN74HC125 to Texas Instruments.
   * Add SN74HC125 (Quadruple Bus Buffer Gates With 3-State Outputs) at Texas Instruments library.
 
