@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-02-16 - Create Toshiba and add TLP251 and TLP620.
+  * Add TLP251 (TOSHIBA Photocoupler and integrated photodetector) at Toshiba.
+  * Add TLP620 (TOSHIBA Photocoupler with two infrared emitting diode) at Toshiba.
+
 * 2018-01-16 - Add NX5032GA at NDK library.
   * Add 10.000MHz crystal (NX5032GA-10.000M-LN-CD-1) at NDK library.
   * Add 12.000MHz crystal (NX5032GA-12.000M-LN-CD-1) at NDK library.
