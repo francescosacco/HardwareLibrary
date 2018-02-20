@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-02-20 - Add SN74LVC1G17 to Texas Instruments.
+  * Add SN74LVC1G17 (Single Schmitt-Trigger Buffer) at Texas Instruments library.
+
 * 2018-02-16 - Create Toshiba and add TLP251 and TLP620.
   * Add TLP251 (TOSHIBA Photocoupler and integrated photodetector) at Toshiba.
   * Add TLP620 (TOSHIBA Photocoupler with two infrared emitting diode) at Toshiba.
