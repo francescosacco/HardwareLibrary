@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-02-23 - Create Dinkle and add EHK2V-xxP.
+  * Add from EHK2V-02P to EHK2V-24P (PCB Terminal Blocks) at Dinkle library.
+
 * 2018-02-20 - Add SN74LVC1G17 to Texas Instruments.
   * Add SN74LVC1G17 (Single Schmitt-Trigger Buffer) at Texas Instruments library.
 
