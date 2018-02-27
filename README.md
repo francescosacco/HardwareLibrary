@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-02-27 - Change Capacitor's terminal size at Basic library.
+  * Change Capacitor's terminal size from 5 to 10 at Basic library.
+
 * 2018-02-23 - Create Dinkle and add EHK2V-xxP.
   * Add from EHK2V-02P to EHK2V-24P (PCB Terminal Blocks) at Dinkle library.
 
