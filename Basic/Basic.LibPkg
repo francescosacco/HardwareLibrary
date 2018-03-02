@@ -206,6 +206,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKCDCTBI
 
+[Document11]
+DocumentPath=Resistor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YGBVYVWM
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
