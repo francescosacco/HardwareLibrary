@@ -1,6 +1,17 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-03-06 - Fix 5569380-1 from TE Connectivity.
+  * Fix Silk over Solder Mask from 5569380-1 at TE Connectivity.
+
+* 2018-03-02 - Add Through Hole Resistor footprint at Basic library.
+  * Add CR12 (1/8W - 0.125W) footprint at Basic library.
+  * Add CR25 (1/4W - 0.25W) footprint at Basic library.
+  * Add CR50 (1/2W - 0.5W) footprint at Basic library.
+  * Add CR100 (1W) footprint at Basic library.
+  * Add CR200 (2W) footprint at Basic library.
+  * Add CR500 (5W) footprint at Basic library.
+
 * 2018-02-27 - Change Capacitor's terminal size at Basic library.
   * Change Capacitor's terminal size from 5 to 10 at Basic library.
 
