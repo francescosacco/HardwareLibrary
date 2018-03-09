@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-03-09 - Add 4527 at Keystone Electronics Corp.
+  * Add 4527 (5mm PC FUSE HOLDER) ar Keystone Electronics Corp.
+
 * 2018-03-06 - Fix 5569380-1 from TE Connectivity.
   * Fix Silk over Solder Mask from 5569380-1 at TE Connectivity.
 
