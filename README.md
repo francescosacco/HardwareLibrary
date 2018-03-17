@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-03-16 - Add DO-15 at Basic library.
+  * Add DO-15 footprint with 3D model at Basic library.
+
 * 2018-03-13 - Add DO-41 and Test Point at Basic library.
   * Add DO-41 footprint with 3D model at Basic library.
   * Add Test Point at Basic library.
