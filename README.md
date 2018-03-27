@@ -1,6 +1,17 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-03-27 - Add SN74HC240 at Texas Instruments.
+  * Add SN74HC240 (Octal Buffers and Line Inverter Drivers With 3-State Outputs) at Texas Instruments.
+
+* 2018-03-23 - Add SN74HC541 at Texas Instruments.
+  * Add SN74HC541 (Octal Buffers and Line Drivers With 3-State Outputs) at Texas Instruments.
+  * Add PDIP20 and SOIC20 at Texas Instruments.
+  * Fix SOIC14 at Texas Instruments.
+
+* 2018-03-20 - Fix Test Point at Basic library.
+  * Fix Test Point trace at Basic library.
+
 * 2018-03-20 - Add Zener Diode at Basic library.
   * Add Zener Diode symbol at Basic library.
 
