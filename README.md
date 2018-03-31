@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-03-30 - Add Electrolytic Capacitors ECA0JM at Panasonic library.
+  * Add ECA0JM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+
 * 2018-03-27 - Add SN74HC240 at Texas Instruments.
   * Add SN74HC240 (Octal Buffers and Line Inverter Drivers With 3-State Outputs) at Texas Instruments.
 
