@@ -1,13 +1,16 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-04-06 - Add Electrolytic Capacitors ECA1CM at Panasonic library.
+* 2018-04-10 - Add Electrolytic Capacitors 25V ECA1EM at Panasonic library.
   * Add ECA1CM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
-* 2018-04-03 - Add Electrolytic Capacitors ECA1AM at Panasonic library.
+* 2018-04-06 - Add Electrolytic Capacitors 16V ECA1CM at Panasonic library.
+  * Add ECA1CM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+
+* 2018-04-03 - Add Electrolytic Capacitors 10V ECA1AM at Panasonic library.
   * Add ECA1AM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
-* 2018-03-30 - Add Electrolytic Capacitors ECA0JM at Panasonic library.
+* 2018-03-30 - Add Electrolytic Capacitors 6,3V ECA0JM at Panasonic library.
   * Add ECA0JM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-03-27 - Add SN74HC240 at Texas Instruments.
