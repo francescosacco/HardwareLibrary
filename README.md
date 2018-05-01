@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-05-01 - Add Electrolytic Capacitors 160V ECA2CM at Panasonic library.
+  * Add ECA2CM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+
 * 2018-04-27 - Add generic disk capacitor at Basic library.
   * Add Generic through-hole Disk Capacitor at Basic Library.
 
