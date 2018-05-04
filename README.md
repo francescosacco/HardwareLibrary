@@ -1,38 +1,39 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-05-04 - Add Electrolytic Capacitors 200V ECA2DM at Panasonic library.
-  * Add ECA2DM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+* 2018-05-04 - Add Electrolytic Capacitors 200V ECA2DM and 250V ECA2EM at Panasonic library.
+  * Add ECA2DM (200V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA2EM (250V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-05-01 - Add Electrolytic Capacitors 160V ECA2CM at Panasonic library.
-  * Add ECA2CM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA2CM (160V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-04-27 - Add generic disk capacitor at Basic library.
   * Add Generic through-hole Disk Capacitor at Basic Library.
 
 * 2018-04-24 - Add Electrolytic Capacitors 100V ECA2AM at Panasonic library.
-  * Add ECA2AM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA2AM (100V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-04-20 - Add Electrolytic Capacitors 63V ECA1JM at Panasonic library.
-  * Add ECA1JM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA1JM (63V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-04-17 - Add Electrolytic Capacitors 50V ECA1HM at Panasonic library.
-  * Add ECA1HM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA1HM (50V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-04-13 - Add Electrolytic Capacitors 35V ECA1VM at Panasonic library.
-  * Add ECA1VM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA1VM (35V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-04-10 - Add Electrolytic Capacitors 25V ECA1EM at Panasonic library.
-  * Add ECA1EM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA1EM (25V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-04-06 - Add Electrolytic Capacitors 16V ECA1CM at Panasonic library.
-  * Add ECA1CM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA1CM (16V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-04-03 - Add Electrolytic Capacitors 10V ECA1AM at Panasonic library.
-  * Add ECA1AM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA1AM (10V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
-* 2018-03-30 - Add Electrolytic Capacitors 6,3V ECA0JM at Panasonic library.
-  * Add ECA0JM (Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+* 2018-03-30 - Add Electrolytic Capacitors 6.3V ECA0JM at Panasonic library.
+  * Add ECA0JM (6.3V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-03-27 - Add SN74HC240 at Texas Instruments.
   * Add SN74HC240 (Octal Buffers and Line Inverter Drivers With 3-State Outputs) at Texas Instruments.
