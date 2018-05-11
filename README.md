@@ -1,8 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-05-11 - Add Electrolytic Capacitors 400V ECA2GM at Panasonic library.
+* 2018-05-11 - Add Electrolytic Capacitors 400V ECA2GM and 450V ECA2WM at Panasonic library.
   * Add ECA2GM (400V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
+  * Add ECA2WM (450V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
 
 * 2018-05-08 - Add Electrolytic Capacitors 350V ECA2VM at Panasonic library.
   * Add ECA2VM (350V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
