@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-05-15 - Add SN74HC244 at Texas Instruments.
+  * Add SN74HC244 (Octal Buffers and Line Drivers With 3-State Outputs) at Texas Instruments.
+
 * 2018-05-11 - Add Electrolytic Capacitors 400V ECA2GM and 450V ECA2WM at Panasonic library.
   * Add ECA2GM (400V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
   * Add ECA2WM (450V Aluminum Electrolytic Capacitors - Radial Lead Type) at Panasonic library.
