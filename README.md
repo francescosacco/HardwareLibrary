@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-06-12 - Add SN74HC138 to Texas Instruments.
+  * Add SN74HC138 (3-Line To 8-Line Decoders/Demultiplexers) at Texas Instruments library.
+
 * 2018-06-05 - Add SN74HC126 to Texas Instruments.
   * Add SN74HC126 (Quadruple Bus Buffer Gates With 3-State Outputs) at Texas Instruments library.
 
