@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-06-15 - Add SN74HC139 to Texas Instruments.
+  * Add SN74HC139 (Dual 2-Line to 4-Line Decoders/Demultiplexers) at Texas Instruments library.
+
 * 2018-06-12 - Add SN74HC138 to Texas Instruments.
   * Add SN74HC138 (3-Line To 8-Line Decoders/Demultiplexers) at Texas Instruments library.
 
