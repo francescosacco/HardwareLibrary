@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-07-03 - Add SN74HC161 to Texas Instruments.
+  * Add SN74HC161 (4-Bit Synchronous Binary Counters) at Texas Instruments library.
+
 * 2018-06-29 - Add SN74HC157 to Texas Instruments.
   * Add SN74HC157 (Quadruple 2-Line To 1-Line Data Selectors/Mutiplexers) at Texas Instruments library.
 
