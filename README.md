@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-07-10 - Add SN74HC174 to Texas Instruments.
+  * Add SN74HC174 (Hex D-Type Flip-Flop With Clear) at Texas Instruments library.
+
 * 2018-07-06 - Add SN74HC164 and SN74HC165 to Texas Instruments.
   * Add SN74HC164 (8-Bit Parallel-Out Serial Shift Registers) at Texas Instruments library.
   * Add SN74HC165 (8-Bit Parallel-Load Shift Registers) at Texas Instruments library.
