@@ -1,8 +1,12 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-07-17 - Add SN74HC191 and fix SN74HC164 and SN74HC165 to Texas Instruments.
+* 2018-07-20 - Add SN74HC245 to Texas Instruments.
+  * Add SN74HC245 (Octal Bus Transceivers with 3-State Outputs) at Texas Instruments library.
+
+* 2018-07-17 - Add SN74HC191 and SN74HC193, and fix SN74HC164 and SN74HC165 to Texas Instruments.
   * Add SN74HC191 (4-Bit Synchronous Up/Down Binary Counters) at Texas Instruments library.
+  * Add SN74HC193 (4-Bit Synchronous Up/Down Counters - Dual Clock with Clear) at Texas Instruments library.
   * Fix SN74HC164 at Texas Instruments library.
   * Fix SN74HC165 at Texas Instruments library.
 
