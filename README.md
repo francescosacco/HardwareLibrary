@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-07-24 - Add SN74HC257 to Texas Instruments.
+  * Add SN74HC257 (Quadruple 2-Line To 1-Line Data Selectors/Mutiplexers with 3-State Outputs) at Texas Instruments library.
+
 * 2018-07-20 - Add SN74HC245 to Texas Instruments.
   * Add SN74HC245 (Octal Bus Transceivers with 3-State Outputs) at Texas Instruments library.
 
