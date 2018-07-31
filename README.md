@@ -1,7 +1,7 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-07-31 - Add SN74HC373 to Texas Instruments library.
+* 2018-07-31 - Add two models of SN74HC373 to Texas Instruments library.
   * Add SN74HC373 (Octal Transparent D-Type Latches with 3-State Outputs) at Texas Instruments library.
 
 * 2018-07-27 - Add SN74HC273 to Texas Instruments library.
