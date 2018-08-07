@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-08-07 - Add SN74HC393 to Texas Instruments library.
+  * Add SN74HC393 (Dual 4-Bit Binary Counter) at Texas Instruments library.
+
 * 2018-08-03 - Add two models of SN74HC374 to Texas Instruments library.
   * Add SN74HC374 (Octal Edge-Triggered D-Type Flip-Flops With 3-State Outputs) at Texas Instruments library.
 
