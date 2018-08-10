@@ -1,8 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-08-10 - Add second model of SN74HC240 to Texas Instruments library.
+* 2018-08-10 - Add second model of SN74HC240 and SN74HC244 to Texas Instruments library.
   * Add second model of SN74HC240 (Octal Buffers and Line Inverter Drivers With 3-State Outputs) at Texas Instruments library.
+  * Add second model of SN74HC244 (Octal Buffers and Line Drivers With 3-State Outputs) at Texas Instruments library.
 
 * 2018-08-07 - Add SN74HC393 to Texas Instruments library.
   * Add SN74HC393 (Dual 4-Bit Binary Counter) at Texas Instruments library.
