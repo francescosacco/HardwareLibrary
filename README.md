@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-08-17 - Add second model of SN74HC174 to Texas Instruments library.
+  * Add second model of SN74HC174 (Hex D-Type Flip-Flop With Clear) at Texas Instruments library.
+
 * 2018-08-14 - Add second model of SN74HC245 to Texas Instruments library.
   * Add second model of SN74HC245 (Octal Bus Transceivers with 3-State Outputs) at Texas Instruments library.
 
