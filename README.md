@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-08-21 - Add second model of SN74HC541 to Texas Instruments library.
+  * Add second model of SN74HC541 (Octal Buffers and Line Drivers With 3-State Outputs) at Texas Instruments library.
+
 * 2018-08-17 - Add second model of SN74HC174 to Texas Instruments library.
   * Add second model of SN74HC174 (Hex D-Type Flip-Flop With Clear) at Texas Instruments library.
 
