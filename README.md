@@ -1,7 +1,7 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-08-24 - Add SN74HC540 to Texas Instruments library.
+* 2018-08-24 - Add two models of SN74HC540 to Texas Instruments library.
   * Add SN74HC540 (Octal Buffers and Line Drivers With 3-State Outputs) at Texas Instruments library.
 
 * 2018-08-21 - Add second model of SN74HC541 to Texas Instruments library.
