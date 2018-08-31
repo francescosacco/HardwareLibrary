@@ -1,7 +1,7 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-08-31 - Add SN74HC574 to Texas Instruments library.
+* 2018-08-31 - Add two models of SN74HC574 to Texas Instruments library.
   * Add SN74HC574 (Octal Edge-Triggered D-Type Flip-Flops With 3-State Outputs) at Texas Instruments library.
 
 * 2018-08-28 - Add two models of SN74HC573A to Texas Instruments library.
