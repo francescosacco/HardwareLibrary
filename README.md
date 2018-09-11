@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-09-11 - Add SN74HC688 to Texas Instruments library.
+  * Add SN74HC688 (8-Bit Identity Comparators) at Texas Instruments library.
+
 * 2018-09-07 - Add two models of SN74HC645 to Texas Instruments library.
   * Add SN74HC645 (Octal Bus Transceivers with 3-State Outputs) at Texas Instruments library.
 
