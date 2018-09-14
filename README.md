@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-09-14 - Add second model of SN65LVDS9638DR to Texas Instruments library.
+  * Add second model of SN65LVDS9638DR (Differential Drivers and Receivers) at Texas Instruments library.
+
 * 2018-09-11 - Add SN74HC688 to Texas Instruments library.
   * Add SN74HC688 (8-Bit Identity Comparators) at Texas Instruments library.
 
