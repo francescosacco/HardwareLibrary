@@ -190,7 +190,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QHSBBNAK
 
 [Document10]
-DocumentPath=SN74.PcbLib
+DocumentPath=Packaging.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,6 +239,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCUCLCWR
+
+[Document13]
+DocumentPath=CD40.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JNXPMBMO
 
 [OutputGroup1]
 Name=Netlist Outputs
