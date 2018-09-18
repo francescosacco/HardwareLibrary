@@ -1,9 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-09-18 - Add CD4001B, CD4002B to Texas Instruments library.
+* 2018-09-18 - Add CD4001B, CD4002B and CD4025B to Texas Instruments library.
   * Add CD4001B (Quad 2-Input CMOS NOR Gates) at Texas Instruments library.
   * Add CD4002B (Dual 4-Input CMOS NOR Gates) at Texas Instruments library.
+  * Add CD4025B (Triple 3-Input CMOS NOR Gates) at Texas Instruments library.
   * Change PcbLib 'SN74' footprint library to 'Packaging'.
 
 * 2018-09-14 - Add second model of SN65LVDS9637DR and SN65LVDS9638DR to Texas Instruments library.
