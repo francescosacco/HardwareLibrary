@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-09-21 - Add BC546, BC547, BC548, BC549 and BC550 to ON Semiconductors library.
+  * Add BC546, BC547, BC548, BC549 and BC550 (NPN Epitaxial Silicon Transistor) to ON Semiconductors library.
+  * Add footprint TO-92 library to On Semiconductors library.
+
 * 2018-09-18 - Add CD4001B, CD4002B and CD4025B to Texas Instruments library.
   * Add CD4001B (Quad 2-Input CMOS NOR Gates) at Texas Instruments library.
   * Add CD4002B (Dual 4-Input CMOS NOR Gates) at Texas Instruments library.
