@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-09-25 - Add BC327 and BC337 to ON Semiconductors library.
+  * Add BC327 (PNP Silicon Amplifier Transistors) to ON Semiconductors library.
+  * Add BC337 (NPN Silicon Amplifier Transistors) to ON Semiconductors library.
+
 * 2018-09-21 - Add BC546, BC547, BC548, BC549, BC550, BC556, BC557, BC558, BC559 and BC560 to ON Semiconductors library.
   * Add BC546, BC547, BC548, BC549 and BC550 (NPN Epitaxial Silicon Transistor) to ON Semiconductors library.
   * Add BC556, BC557, BC558, BC559 and BC560 (PNP Epitaxial Silicon Transistor) to ON Semiconductors library.
