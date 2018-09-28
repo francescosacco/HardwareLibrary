@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-09-28 - Add BC517 to ON Semiconductors library.
+  * Add BC517 (NPN Silicon Darlington Transistors) to ON Semiconductors library.
+
 * 2018-09-25 - Add BC327 and BC337 to ON Semiconductors library.
   * Add BC327 (PNP Silicon Amplifier Transistors) to ON Semiconductors library.
   * Add BC337 (NPN Silicon Amplifier Transistors) to ON Semiconductors library.
