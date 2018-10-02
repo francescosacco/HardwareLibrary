@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-10-02 - Add SN74HC595 to Texas Instruments library.
+  * Add SN74HC595 (8-Bit Shift Registers with 3-State Output Registers) to Texas Instruments library.
+
 * 2018-09-28 - Add BC517 to ON Semiconductors library.
   * Add BC517 (NPN Silicon Darlington Transistors) to ON Semiconductors library.
 
