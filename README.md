@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-10-05 - Add SN74LS73A to Texas Instruments library.
+  * Add SN74LS73A (Dual J-K Flip-Flops with Clear) to Texas Instruments library.
+
 * 2018-10-02 - Add SN74HC595 to Texas Instruments library.
   * Add SN74HC595 (8-Bit Shift Registers with 3-State Output Registers) to Texas Instruments library.
 
