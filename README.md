@@ -1,9 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-10-09 - Add CD4011A and CD4012A to Texas Instruments library.
+* 2018-10-09 - Add CD4011A, CD4012A and CD4023A to Texas Instruments library.
   * Add CD4011A (Quad 2-Input CMOS NAND Gates) to Texas Instruments library.
   * Add CD4012A (Dual 4-Input CMOS NAND Gates) to Texas Instruments library.
+  * Add CD4023A (Triple 3-Input CMOS NAND Gates) to Texas Instruments library.
 
 * 2018-10-05 - Add SN74LS73A to Texas Instruments library.
   * Add SN74LS73A (Dual J-K Flip-Flops with Clear) to Texas Instruments library.
