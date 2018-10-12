@@ -1,8 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-10-12 - Add CD4009UB to Texas Instruments library.
+* 2018-10-12 - Add CD4009UB and CD4010B to Texas Instruments library.
   * Add CD4009UB (CMOS Hex Buffers/Converters Inverting Type) to Texas Instruments library.
+  * Add CD4010B (CMOS Hex Buffers/Converters Non-Inverting Type) to Texas Instruments library.
 
 * 2018-10-09 - Add CD4011A, CD4012A and CD4023A to Texas Instruments library.
   * Add CD4011A (Quad 2-Input CMOS NAND Gates) to Texas Instruments library.
