@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-10-16 - Add SN74LS01 to Texas Instruments library.
+  * Add SN74LS01 (Quadruple 2-Input Positive-NAND Gates with Opem-Collector Outputs) to Texas Instruments library.
+
 * 2018-10-12 - Add CD4009UB and CD4010B to Texas Instruments library.
   * Add CD4009UB (CMOS Hex Buffers/Converters Inverting Type) to Texas Instruments library.
   * Add CD4010B (CMOS Hex Buffers/Converters Non-Inverting Type) to Texas Instruments library.
