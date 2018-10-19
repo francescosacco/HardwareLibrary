@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-10-19 - Add 2N2222 to ON Semiconductors library.
+  * Add 2N2222 (NPN Silicon Amplifier Transistors) to ON Semiconductors library.
+
 * 2018-10-16 - Add SN74LS01 to Texas Instruments library.
   * Add SN74LS01 (Quadruple 2-Input Positive-NAND Gates with Opem-Collector Outputs) to Texas Instruments library.
 
