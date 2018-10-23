@@ -1,6 +1,12 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-10-23 - Add 74ABT04 at Nexperia library.
+  * Add 74ABT04 (Hex Inverters) at Nexperia library.
+  * Add TSSOP14 footprint at Nexperia library.
+  * Add SSOP14 footprint at Nexperia library.
+  * Add SO14 footprint at Nexperia library.
+
 * 2018-10-19 - Add 2N2222 to ON Semiconductors library.
   * Add 2N2222 (NPN Silicon Amplifier Transistors) to ON Semiconductors library.
 
