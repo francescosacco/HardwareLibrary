@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-10-26 - Add 74ABT125 at Nexperia library.
+  * Add 74ABT125 (Quad. Buffer 3-State) at Nexperia library.
+  * Add DHVQFN14 footprint at Nexperia library.
+
 * 2018-10-23 - Add 74ABT04 at Nexperia library.
   * Add 74ABT04 (Hex Inverters) at Nexperia library.
   * Add TSSOP14 footprint at Nexperia library.
