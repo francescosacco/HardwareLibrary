@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-11-06 - Add 74ABT16244A at Nexperia library.
+  * Add 74ABT16244A (16-bit Buffer/Line Driver 3-State) at Nexperia library.
+
 * 2018-11-02 - Add 74ABT16240A at Nexperia library.
   * Add 74ABT16240A (16-bit Inverting Buffer/Line Driver 3-State) at Nexperia library.
   * Add TSSOP48 footprint at Nexperia library.
