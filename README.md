@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-11-09 - Add 74ABT16245B at Nexperia library.
+  * Add 74ABT16245B (16-bit Bus Transceiver 3-State) at Nexperia library.
+
 * 2018-11-06 - Add 74ABT16244A at Nexperia library.
   * Add 74ABT16244A (16-bit Buffer/Line Driver 3-State) at Nexperia library.
   * Add texture on footprints at Nexperia library.
@@ -27,7 +30,7 @@ Hardware Libraries for Altium.
   * Add 2N2222 (NPN Silicon Amplifier Transistors) to ON Semiconductors library.
 
 * 2018-10-16 - Add SN74LS01 to Texas Instruments library.
-  * Add SN74LS01 (Quadruple 2-Input Positive-NAND Gates with Opem-Collector Outputs) to Texas Instruments library.
+  * Add SN74LS01 (Quadruple 2-Input Positive-NAND Gates with Open-Collector Outputs) to Texas Instruments library.
 
 * 2018-10-12 - Add CD4009UB and CD4010B to Texas Instruments library.
   * Add CD4009UB (CMOS Hex Buffers/Converters Inverting Type) to Texas Instruments library.
