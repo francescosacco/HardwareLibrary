@@ -1,7 +1,7 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-11-09 - Add 74ABT16245B at Nexperia library.
+* 2018-11-09 - Add two models of 74ABT16245B at Nexperia library.
   * Add 74ABT16245B (16-bit Bus Transceiver 3-State) at Nexperia library.
 
 * 2018-11-06 - Add 74ABT16244A at Nexperia library.
