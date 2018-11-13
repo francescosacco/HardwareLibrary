@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-11-13 - Fix both model of SN74HC244 at Texas Instruments library.
+  * Fix both model of SN74HC244 (Octal Buffers and Line Drivers With 3-State Outputs) at Texas Instruments library.
+
 * 2018-11-09 - Add two models of 74ABT16245B at Nexperia library.
   * Add 74ABT16245B (16-bit Bus Transceiver 3-State) at Nexperia library.
 
