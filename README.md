@@ -1,6 +1,12 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-11-16 - Add two models of 74ABT244 at Nexperia library.
+  * Add 74ABT244 (Octal buffer/line driver; 3-state) at Nexperia library.
+  * Add TSSOP20 footprint at Nexperia library.
+  * Add SSOP20 footprint at Nexperia library.
+  * Add SO20 footprint at Nexperia library.
+
 * 2018-11-13 - Fix both model of SN74HC244 at Texas Instruments library.
   * Fix both model of SN74HC244 (Octal Buffers and Line Drivers With 3-State Outputs) at Texas Instruments library.
 
