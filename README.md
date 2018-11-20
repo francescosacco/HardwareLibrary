@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-11-20 - Add two models of 74ABT245 at Nexperia library.
+  * Add two models of 74ABT245 (Octal transceiver with direction pin; 3-State) at Nexperia library.
+
 * 2018-11-16 - Add two models of 74ABT244 at Nexperia library.
   * Add 74ABT244 (Octal buffer/line driver; 3-state) at Nexperia library.
   * Add TSSOP20 footprint at Nexperia library.
