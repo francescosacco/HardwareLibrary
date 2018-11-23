@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-11-23 - Add 74HC(T)04 at Nexperia library.
+  * Add 74HC(T)04 (Hex Inverters) at Nexperia library.
+
 * 2018-11-20 - Add two models of 74ABT245 at Nexperia library.
   * Add two models of 74ABT245 (Octal transceiver with direction pin; 3-State) at Nexperia library.
 
@@ -23,7 +26,7 @@ Hardware Libraries for Altium.
 * 2018-11-02 - Add 74ABT16240A at Nexperia library.
   * Add 74ABT16240A (16-bit Inverting Buffer/Line Driver 3-State) at Nexperia library.
   * Add TSSOP48 footprint at Nexperia library.
-  * Add SSOP48 footprint at Nexperia library.
+  * Add SSOP48 footprint at Nexperia library.   
 
 * 2018-10-30 - Add 74ABT126 at Nexperia library.
   * Add 74ABT126 (Quad. Buffer 3-State) at Nexperia library.
