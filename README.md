@@ -1,7 +1,8 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
-* 2018-11-30 - Add second model of 74ABT125 at Nexperia library.
+* 2018-11-30 - Add two models of 74AHC(T)125 and second model of 74ABT125 at Nexperia library.
+  * Add two models of 74AHC(T)125 (Quad. Buffer 3-State) at Nexperia library.
   * Add second model of 74ABT125 (Quad. Buffer 3-State) at Nexperia library.
 
 * 2018-11-27 - Add second model of SN74HC125 at Texas Instruments.
