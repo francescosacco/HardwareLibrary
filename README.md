@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium.
 
+* 2018-12-11 - Add 74AHC(T)14 at Nexperia library.
+  * Add 74AHC(T)14 (Hex Inverting Schmitt Trigger) at Nexperia library.
+
 * 2018-12-07 - Fix 74AHC(T)04 and add 74AHC(T)132 at Nexperia library.
   * Fix 74AHC(T)04 (Hex Inverters) at Nexperia library.
   * Add 74AHC(T)132 (Quad 2-input NAND Schmitt trigger) at Nexperia library.
@@ -19,8 +22,8 @@ Hardware Libraries for Altium.
 * 2018-11-27 - Add second model of SN74HC125 at Texas Instruments.
   * Add second model of SN74HC125 (Quadruple Bus Buffer Gates With 3-State Outputs) at Texas Instruments library.
 
-* 2018-11-23 - Add 74HC(T)04 at Nexperia library.
-  * Add 74HC(T)04 (Hex Inverters) at Nexperia library.
+* 2018-11-23 - Add 74AHC(T)04 at Nexperia library.
+  * Add 74AHC(T)04 (Hex Inverters) at Nexperia library.
 
 * 2018-11-20 - Add two models of 74ABT245 at Nexperia library.
   * Add two models of 74ABT245 (Octal transceiver with direction pin; 3-State) at Nexperia library.
