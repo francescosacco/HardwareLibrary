@@ -1,7 +1,8 @@
 # HardwareLibrary
 Hardware Libraries for Altium.CD315643407JP CD285439135JP
 
-* 2018-12-14 - Add TSSOP5, TSOP5 and XSON6 footprint at Nexperia library.
+* 2018-12-14 - Add 74HC(T)1G04 and 74HC(T)1G04GV at Nexperia library.
+  * Add 74AHC(T)1G04 and 74AHC(T)1G04GV (Inverting) at Nexperia library.
   * Add TSSOP5 footprint at Nexperia library.   
   * Add TSOP5 footprint at Nexperia library.   
   * Add XSON6 footprint at Nexperia library.   
