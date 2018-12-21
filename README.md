@@ -1,14 +1,19 @@
 # HardwareLibrary
-Hardware Libraries for Altium.CD315643407JP CD285439135JP
+Hardware Libraries for Altium. 
+
+* 2018-12-21 - Add 74HC(T)1G125 at Nexperia library.
+  * Add 74AHC(T)1G125 (Bus Buffer/Line Driver; 3-state) at Nexperia library.
+  * Add XSON6 1x1 footprint at Nexperia library.
+  * Fix 74HC(T)1G04 part-number at Nexperia library.
 
 * 2018-12-18 - Add 74HC(T)1G07 at Nexperia library.
   * Add 74AHC(T)1G07 (Buffer with Open-Drain Output) at Nexperia library.
 
-* 2018-12-14 - Add 74HC(T)1G04 and 74HC(T)1G04GV at Nexperia library.
-  * Add 74AHC(T)1G04 and 74AHC(T)1G04GV (Inverting) at Nexperia library.
-  * Add TSSOP5 footprint at Nexperia library.   
-  * Add TSOP5 footprint at Nexperia library.   
-  * Add XSON6 footprint at Nexperia library.   
+* 2018-12-14 - Add 74HC(T)1G04 and 74HC(T)1G04GM at Nexperia library.
+  * Add 74AHC(T)1G04 and 74AHC(T)1G04GM (Inverting) at Nexperia library.
+  * Add TSSOP5 footprint at Nexperia library.
+  * Add TSOP5 footprint at Nexperia library.
+  * Add XSON6 footprint at Nexperia library.
 
 * 2018-12-11 - Add 74AHC(T)14 at Nexperia library.
   * Add 74AHC(T)14 (Hex Inverting Schmitt Trigger) at Nexperia library.
