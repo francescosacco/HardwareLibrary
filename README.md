@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2018-12-25 - Add 74HC(T)1G126 at Nexperia library.
+  * Add 74AHC(T)1G126 (Bus Buffer/Line Driver; 3-State) at Nexperia library.
+
 * 2018-12-21 - Add 74HC(T)1G125 at Nexperia library.
   * Add 74AHC(T)1G125 (Bus Buffer/Line Driver; 3-state) at Nexperia library.
   * Add XSON6 1x1 footprint at Nexperia library.
