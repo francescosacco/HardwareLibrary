@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2018-12-28 - Add 74HC(T)1G14 and 74HC(T)1G17 at Nexperia library.
+  * Add 74AHC(T)1G14 (Inverting Schmitt trigger) at Nexperia library.
+  * Add 74AHC(T)1G17 (Single Schmitt trigger buffer) at Nexperia library.
+
 * 2018-12-25 - Add 74HC(T)1G126 at Nexperia library.
   * Add 74AHC(T)1G126 (Bus Buffer/Line Driver; 3-State) at Nexperia library.
 
