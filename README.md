@@ -1,8 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
-* 2019-01-01 - Add two models of 74AHC(T)244 at Nexperia library.
+* 2019-01-01 - Add two models of 74AHC(T)244 and 74AHC(T)245 at Nexperia library.
   * Add 74AHC(T)244 (Octal Buffer/Line Driver; 3-State) at Nexperia library.
+  * Add 74AHC(T)245 (Octal Transceiver with Direction Pin; 3-State) at Nexperia library.
   * Add DHVQFN20 footprint at Nexperia library.
 
 * 2018-12-28 - Add 74HC(T)1G14 and 74HC(T)1G17 at Nexperia library.
