@@ -1,6 +1,12 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-01-04 - Add two models of 74AHC(T)2G125 at Nexperia library.
+  * Add TSSOP8 footprint at Nexperia library.
+  * Add VSSOP8 footprint at Nexperia library.
+  * Add XSON8 footprint at Nexperia library.
+  * Add two models of 74AHC(T)2G125 (Dual Buffer/Line Driver; 3-State) at Nexperia library.
+
 * 2019-01-01 - Add two models of 74AHC(T)244 and 74AHC(T)245 at Nexperia library.
   * Add 74AHC(T)244 (Octal Buffer/Line Driver; 3-State) at Nexperia library.
   * Add 74AHC(T)245 (Octal Transceiver with Direction Pin; 3-State) at Nexperia library.
