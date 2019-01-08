@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-01-08 - Add QSOP-20 footprint at Integrated Device Technology.
+  * Add QSOP-20 footprint at Integrated Device Technology.
+
 * 2019-01-04 - Add two models of 74AHC(T)2G125 at Nexperia library.
   * Add TSSOP8 footprint at Nexperia library.
   * Add VSSOP8 footprint at Nexperia library.
