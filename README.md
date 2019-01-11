@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-01-11 - Add new footprint for EXB Chip Resistor Array at Panasonic library.
+  * Add footprint at Panasonic library.
+
 * 2019-01-08 - Add QSOP-20 footprint at Integrated Device Technology.
   * Add QSOP-20 footprint at Integrated Device Technology.
 
