@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-01-15 - Add 3M library and 214-3339-00-0602J.
+  * Add 214-3339-00-0602J (DIP Sockets 14 Pins) at 3M library.
+
 * 2019-01-11 - Add new footprint for EXB Chip Resistor Array at Panasonic library.
   * Add footprint at Panasonic library.
 
