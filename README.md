@@ -1,8 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
-* 2019-01-08 - Add 228-1277-00-0602J at 3M library.
+* 2019-02-08 - Add 228-1277-00-0602J and 228-4817-00-0602J at 3M library.
   * Add 228-1277-00-0602J (DIP Sockets 28 Pins) at 3M library.
+  * Add 228-4817-00-0602J (DIP Sockets 28 Pins) at 3M library.
 
 * 2019-02-01 - Add 224-1275-00-0602J and 224-5248-00-0602J at 3M library.
   * Add 224-1275-00-0602J (DIP Sockets 24 Pins) at 3M library.
