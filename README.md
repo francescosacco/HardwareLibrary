@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-02-15 - Add Microchip library, MCP2561 and MCP2562.
+  * Add MCP2561 (High-Speed CAN Transceiver) at Microchip library.
+  * Add MCP2562 (High-Speed CAN Transceiver) at Microchip library.
+
 * 2019-02-14 - Add Omron library and G5Q-14.
   * Add G5Q-14 (Relay 1-pole 10A) at Omron library.
 
