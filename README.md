@@ -1,6 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-02-18 - Add ENC424J600 at Microchip library.
+  * Add ENC424J600 (Stand-Alone 10/100 Ethernet Controllerwith SPI or Parallel Interface) at Microchip library.
+
 * 2019-02-17 - Add MCP2551 at Microchip library.
   * Add MCP2551 (High-Speed CAN Transceiver) at Microchip library.
 
