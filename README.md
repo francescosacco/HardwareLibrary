@@ -1,12 +1,15 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-02-20 - Add foot DFN-2x3 at Microchip library.
+
 * 2019-02-19 - Add MCP2542xFD and MCP2544xFD at Microchip library.
   * Add MCP2542xFD (CAN FD Transceiver with Wake-Up Pattern Option) at Microchip library.
   * Add MCP2544xFD (CAN FD Transceiver with Wake-Up Pattern Option) at Microchip library.
 
 * 2019-02-18 - Add ENC424J600 at Microchip library.
   * Add ENC424J600 (Stand-Alone 10/100 Ethernet Controllerwith SPI or Parallel Interface) at Microchip library.
+  * Add footprint TQFP44.
 
 * 2019-02-17 - Add MCP2551 at Microchip library.
   * Add MCP2551 (High-Speed CAN Transceiver) at Microchip library.
@@ -14,6 +17,7 @@ Hardware Libraries for Altium.
 * 2019-02-15 - Add Microchip library, MCP2561 and MCP2562.
   * Add MCP2561 (High-Speed CAN Transceiver) at Microchip library.
   * Add MCP2562 (High-Speed CAN Transceiver) at Microchip library.
+  * Add footprint DIP8, SOIC8 and DFN-3x3.
 
 * 2019-02-14 - Add Omron library and G5Q-14.
   * Add G5Q-14 (Relay 1-pole 10A) at Omron library.
