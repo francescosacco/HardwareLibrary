@@ -1,8 +1,9 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
-* Add MCP2557FD at Microchip library.
+* Add MCP2557FD and MCP2558FD at Microchip library.
   * Add MCP2557FD (CAN FD Transceiver with Silent Mode) at Microchip library.
+  * Add MCP2558FD (CAN FD Transceiver with Silent Mode) at Microchip library.
 
 * 2019-02-20 - Add foot DFN-2x3 at Microchip library.
 
