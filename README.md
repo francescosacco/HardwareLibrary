@@ -1,11 +1,12 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
-* Add MCP2557FD and MCP2558FD at Microchip library.
+* 2019-02-22 - Add MCP2557FD and MCP2558FD at Microchip library, and add LM555 at Texas Instruments library.
   * Add MCP2557FD (CAN FD Transceiver with Silent Mode) at Microchip library.
   * Add MCP2558FD (CAN FD Transceiver with Silent Mode) at Microchip library.
+  * Add LM555 (LM555 Timer) ar Texas Instruments library.
 
-* 2019-02-20 - Add foot DFN-2x3 at Microchip library.
+* 2019-02-20 - Add foot DFN-2x3 at Microchip library. 003.19.411.343.291-6
 
 * 2019-02-19 - Add MCP2542xFD and MCP2544xFD at Microchip library.
   * Add MCP2542xFD (CAN FD Transceiver with Wake-Up Pattern Option) at Microchip library.
