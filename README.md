@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-02-23 - Add TL16C550CN at Texas Instruments library.
+  * Add TL16C550CN (Asynchronous Communications Element with Autoflow Control) at Texas Instruments library.
+  * Add PDIP40 footprint at Texas Instruments library.
+
 * 2019-02-22 - Add MCP2557FD and MCP2558FD at Microchip library, and add LM555 at Texas Instruments library.
   * Add MCP2557FD (CAN FD Transceiver with Silent Mode) at Microchip library.
   * Add MCP2558FD (CAN FD Transceiver with Silent Mode) at Microchip library.
