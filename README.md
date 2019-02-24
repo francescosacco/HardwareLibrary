@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-02-24 - Add TL16C550C at Texas Instruments library.
+  * Add TL16C550CPT (Asynchronous Communications Element with Autoflow Control) at Texas Instruments library.
+  * Add LQFP44 footprint at Texas Instruments library.
+
 * 2019-02-23 - Add TL16C550C at Texas Instruments library.
   * Add TL16C550CN (Asynchronous Communications Element with Autoflow Control) at Texas Instruments library.
   * Add TL16C550CFN (Asynchronous Communications Element with Autoflow Control) at Texas Instruments library.
