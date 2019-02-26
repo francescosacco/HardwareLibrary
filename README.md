@@ -1,6 +1,10 @@
 # HardwareLibrary
 Hardware Libraries for Altium. 
 
+* 2019-02-26 - Add AT89S51 at Microchip library.
+  * Add AT89S51 (8051 - 8-bit Microcontroller with 4K Bytes In-System Programmable Flash) at Microchip library.
+  * Add DIP40 footprint at Microchip library.
+
 * 2019-02-24 - Add TL16C550C at Texas Instruments library.
   * Add TL16C550CPT (Asynchronous Communications Element with Autoflow Control) at Texas Instruments library.
   * Add LQFP44 footprint at Texas Instruments library.
