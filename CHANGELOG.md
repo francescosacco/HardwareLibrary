@@ -1,9 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
-* 2019-03-03 - Add 240-1280-00-0602J and 240-3639-00-0602J at 3M library.
-  * Add 240-1280-00-0602J (DIP Sockets 32 Pins) at 3M library.
-  * Add 240-3639-00-0602J (DIP Sockets 32 Pins) at 3M library.
+* 2019-03-03 - Add 240-1280-00-0602J, 240-3639-00-0602J and 242-1281-00-0602J at 3M library.
+  * Add 240-1280-00-0602J (DIP Sockets 40 Pins) at 3M library.
+  * Add 240-3639-00-0602J (DIP Sockets 40 Pins) at 3M library.
+  * Add 242-1281-00-0602J (DIP Sockets 42 Pins) at 3M library.
 
 * 2019-02-28 - Add AT89S51J at Microchip library.
   * Add AT89S51J (8051 - 8-bit Microcontroller with 4K Bytes In-System Programmable Flash) at Microchip library.
