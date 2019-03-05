@@ -1,8 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
-2019-03-04 - Add 248-1282-00-0602J at 3M library.
+2019-03-04 - Add 248-1282-00-0602J and 264-4493-00-0602J at 3M library.
   * Add 248-1282-00-0602J (DIP sockets 48 Pins) at 3M library.
+  * Add 264-4493-00-0602J (DIP sockets 64 Pins) at 3M library.
 
 * 2019-03-03 - Add 240-1280-00-0602J, 240-3639-00-0602J and 242-1281-00-0602J at 3M library.
   * Add 240-1280-00-0602J (DIP Sockets 40 Pins) at 3M library.
@@ -32,7 +33,7 @@ Hardware Libraries for Altium.
   * Add MCP2558FD (CAN FD Transceiver with Silent Mode) at Microchip library.
   * Add LM555 (LM555 Timer) ar Texas Instruments library.
 
-* 2019-02-20 - Add foot DFN-2x3 at Microchip library. 003.19.411.343.291-6
+* 2019-02-20 - Add foot DFN-2x3 at Microchip library.
 
 * 2019-02-19 - Add MCP2542xFD and MCP2544xFD at Microchip library.
   * Add MCP2542xFD (CAN FD Transceiver with Wake-Up Pattern Option) at Microchip library.
