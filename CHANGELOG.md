@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+2019-03-05 - Create Recom Power and add RAC02-xxGA.
+  * Add RAC02-xxGA (AC/DC Converter - 2 Watt, Single Output) at Recom Power library.
+
 2019-03-04 - Add 248-1282-00-0602J and 264-4493-00-0602J at 3M library.
   * Add 248-1282-00-0602J (DIP sockets 48 Pins) at 3M library.
   * Add 264-4493-00-0602J (DIP sockets 64 Pins) at 3M library.
