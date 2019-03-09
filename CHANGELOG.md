@@ -1,7 +1,13 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
-* 2019-05-07 - Add RAC01-xxSGA and RAC01-xxSGB at Recom Power library.
+* 2019-03-09 - add 3D Body at Basic library.
+  * Add 3D Body at 0402 footprint.
+  * Add 3D Body at 0603 footprint.
+  * Add 3D Body at 0805 footprint.
+  * Add 3D Body at 1206 footprint.
+
+* 2019-03-07 - Add RAC01-xxSGA and RAC01-xxSGB at Recom Power library.
   * Add RAC01-xxSGA (AC/DC Converter - 1 Watt, Single Output) at Recom Power library.
   * Add RAC01-xxSGB (AC/DC Converter - 1 Watt, Single Output) at Recom Power library.
 
