@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-03-11 - Improbe 3D model at Recom Power library.
+  * Improbe 3D model at Recom Power library.
+
 * 2019-03-09 - add 3D Body at Basic library.
   * Add 3D Body at 0402 footprint.
   * Add 3D Body at 0603 footprint.
