@@ -1,7 +1,7 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
-2019-03-18 - Add 3D model at TE Connectivity library.
+2019-03-19 - Add 3D model at TE Connectivity library.
   * Add 3D model to x-146256-x (CONN Header Breakaway).
 
 2019-03-15 - Add 3D model at TE Connectivity library.
