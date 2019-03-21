@@ -1,20 +1,23 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
-2019-03-19 - Add 3D model at TE Connectivity library.
+* 2019-03-20 - Add 3D model at TE Connectivity library.
+  * Add 3D model to x-103741-x (CONN Header Breakaway).
+
+* 2019-03-19 - Add 3D model at TE Connectivity library.
   * Add 3D model to x-146256-x (CONN Header Breakaway).
 
-2019-03-15 - Add 3D model at TE Connectivity library.
+* 2019-03-15 - Add 3D model at TE Connectivity library.
   * Add 3D model to x-146256-x (CONN Header Breakaway).
 
-2019-03-14 - Add Alpha Electronic library and RV16AF-20xx.
+* 2019-03-14 - Add Alpha Electronic library and RV16AF-20xx.
   * Add RV16AF-20xx-10 (Potentiometers 16mm Rotary Type, 10mm Metal ShaftSeries) at Alpha Electronic library.
   * Add RV16AF-20xx-15 (Potentiometers 16mm Rotary Type, 15mm Metal ShaftSeries) at Alpha Electronic library.
   * Add RV16AF-20xx-20 (Potentiometers 16mm Rotary Type, 20mm Metal ShaftSeries) at Alpha Electronic library.
   * Add RV16AF-20xx-25 (Potentiometers 16mm Rotary Type, 25mm Metal ShaftSeries) at Alpha Electronic library.
 
-* 2019-03-11 - Improbe 3D model at Recom Power library.
-  * Improbe 3D model at Recom Power library.
+* 2019-03-11 - Improve 3D model at Recom Power library.
+  * Improve 3D model at Recom Power library.
 
 * 2019-03-09 - add 3D Body at Basic library.
   * Add 3D Body at 0402 footprint.
