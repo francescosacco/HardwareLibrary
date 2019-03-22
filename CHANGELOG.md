@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-03-21 - Add SP-140520-xx-001 at GCT library.
+  * Add SP-140520-xx-001 (2.54mm Pitch Socket, Single Row, Straight) at GCT library.
+
 * 2019-03-20 - Add 3D model at TE Connectivity library.
   * Add 3D model to x-103741-x (CONN Header Breakaway).
 
@@ -19,7 +22,7 @@ Hardware Libraries for Altium.
 * 2019-03-11 - Improve 3D model at Recom Power library.
   * Improve 3D model at Recom Power library.
 
-* 2019-03-09 - add 3D Body at Basic library.
+* 2019-03-09 - Add 3D Body at Basic library.
   * Add 3D Body at 0402 footprint.
   * Add 3D Body at 0603 footprint.
   * Add 3D Body at 0805 footprint.
