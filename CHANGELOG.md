@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-03-23 - Add SP-140520-xx-001 footprint at GCT library.
+  * Add SP-140520-xx-001 footprint (2.54mm Pitch Socket, Single Row, Straight) at GCT library.
+
 * 2019-03-22 - Add SP-140520-xx-001 footprint at GCT library.
   * Add SP-140520-xx-001 footprint (2.54mm Pitch Socket, Single Row, Straight) at GCT library.
 
