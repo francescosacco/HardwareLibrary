@@ -1,6 +1,15 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-03-28 - Added 3D model to x-535541-x at TE Connectivity.
+  * Added 3D model to x-535541-x - CONN Receptacle Single Row Gold.
+
+* 2019-03-28 - Added footprint to x-535541-x at TE Connectivity.
+  * Added footprint to x-535541-x - CONN Receptacle Single Row Gold.
+
+* 2019-03-27 - Added x-535541-x at TE Connectivity.
+  * Added x-535541-x - CONN Receptacle Single Row Gold.
+
 * 2019-03-26 - Change SP-140520-xx-001 footprint at GCT library.
   * Change SP-140520-xx-001 footprint (2.54mm Pitch Socket, Single Row, Straight) at GCT library.
 
