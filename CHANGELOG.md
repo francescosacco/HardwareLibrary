@@ -1,11 +1,12 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
-* 2019-03-28 - Added 3D model to x-535541-x at TE Connectivity.
-  * Added 3D model to x-535541-x - CONN Receptacle Single Row Gold.
+* 2019-03-29 - Added ISO1500 to Texas Instruments.
+  * Add ISO1500 (Basic Isolated RS-485/RS-422 Transceiverin Ultra-Small Package) at Texas Instruments library.
 
-* 2019-03-28 - Added footprint to x-535541-x at TE Connectivity.
+* 2019-03-28 - Added footprint and 3D model to x-535541-x at TE Connectivity.
   * Added footprint to x-535541-x - CONN Receptacle Single Row Gold.
+  * Added 3D model to x-535541-x - CONN Receptacle Single Row Gold.
 
 * 2019-03-27 - Added x-535541-x at TE Connectivity.
   * Added x-535541-x - CONN Receptacle Single Row Gold.
