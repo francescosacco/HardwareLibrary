@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-01 - Improve 3D footprint from TMS320F28335 at Texas Instruments library.
+  * Improve 3D footprint from TMS320F28335 at Texas Instruments library.
+
 * 2019-03-29 - Added ISO1500 to Texas Instruments.
   * Add ISO1500 (Basic Isolated RS-485/RS-422 Transceiverin Ultra-Small Package) at Texas Instruments library.
 
