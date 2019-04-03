@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-02 - Improve 3D footprint at Texas Instruments library.
+  * Improve 3D footprint from PDIP20 at Texas Instruments library.
+  * Improve 3D footprint from PDIP40 at Texas Instruments library.
+
 * 2019-04-01 - Improve 3D footprint at Texas Instruments library.
   * Improve 3D footprint from TMS320F28335 at Texas Instruments library.
   * Improve 3D footprint from CDIP14 based on CD4001B at Texas Instruments library.
