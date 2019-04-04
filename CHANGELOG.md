@@ -1,6 +1,11 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-03 - Add IDT71256SL at IDT library.
+  * Add IDT71256SL (CMOS Static RAM 256K) at IDT library.
+  * Add DIP28 300 mils footprint at IDT library.
+  * Add DIP28 600 mils footprint at IDT library.
+
 * 2019-04-02 - Improve 3D footprint at Texas Instruments library.
   * Improve 3D footprint from PDIP20 at Texas Instruments library.
   * Improve 3D footprint from PDIP40 at Texas Instruments library.
@@ -721,7 +726,6 @@ Hardware Libraries for Altium.
 * 2016-12-22 - Added Texas Instruments
   * SN65LVDS9637DR - 2 Differential Receivers
   * SN65LVDS389DB - 8 Differential Drivers
-
 
 * 2016-12-15 - Added Zilog
   * Z84C00xxAEG - Z80 CPU 44LQFP
