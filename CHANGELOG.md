@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-04 - Add SOJ28 footprint at IDT library.
+  * Add SOJ28 footprint (300 mils) at IDT library.
+
 * 2019-04-03 - Add IDT71256SL at IDT library.
   * Add IDT71256SL (CMOS Static RAM 256K) at IDT library.
   * Add DIP28 300 mils footprint at IDT library.
