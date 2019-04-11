@@ -27,4 +27,4 @@ It's possible to install multiples libraries simultaneously. Just select a group
 
 **Francesco Sacco** - I'm an Electrical Engineer who works in embedded systems projects since 2003. I had opportunity to create too many different systems, from digital audio, power systems to brushless motor control, embedded Linux machines, etc.
 
-[LinkedIn](linkedin.com/in/saccofrancesco)
+[LinkedIn](http://www.linkedin.com/in/saccofrancesco)

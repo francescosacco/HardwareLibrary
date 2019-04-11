@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-10 - Add TSOP28 footprint at ISSI Library.
+  * Add TSOP28 footprint to IS62C256AL at ISSI Library.
+
 * 2019-04-04 - Add SOJ28 footprint at IDT library.
   * Add SOJ28 footprint (300 mils) at IDT library.
 

@@ -26,4 +26,4 @@ Uma vez feito o clone do projeto, a realização da instalação é simples. Bas
 
 **Francesco Sacco** - Sou um Engenheiro Eletricista que tem trabalhado com projetos de sistemas embarcados por desde 2003. Tive oportunidade de criar muitos sistemas de diferentes tipos, de áudio digital, sistemas de potência para controle de motores brushless, máquinas com Linux embarcados, etc.
 
-[LinkedIn](linkedin.com/in/saccofrancesco)
+[LinkedIn](http://www.linkedin.com/in/saccofrancesco)
