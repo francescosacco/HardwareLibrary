@@ -1,6 +1,11 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-11 - Add AT28C64B at Microchip Library.
+  * Add AT28C64B (64K Parallel EEPROM) at Microchip Library.
+  * Add PDIP28 footprint at Microchip Library.
+  * Add SOIC28 footprint at Microchip Library.
+
 * 2019-04-10 - Add TSOP28 footprint at ISSI Library.
   * Add TSOP28 footprint to IS62C256AL at ISSI Library.
 
