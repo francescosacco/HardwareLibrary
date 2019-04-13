@@ -1,6 +1,11 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-12 - Add CY62256N at Cypress Library.
+  * Add CY62256N (256-Kbit Static RAM) at Cypress Library.
+  * Add PDIP28 footprint at Cypress Library.
+  * Add SOIC28 footprint at Cypress Library.
+
 * 2019-04-11 - Add AT28C64B at Microchip Library.
   * Add AT28C64B (64K Parallel EEPROM) at Microchip Library.
   * Add PDIP28 footprint at Microchip Library.
