@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-13 - Add MC6850 at Motorola Library.
+  * Add MC6850 (Asynchronous Communications Interface Adapter) at Motorola Library.
+  * Add PDIP24 footprint at Motorola Library.
+
 * 2019-04-12 - Add CY62256N at Cypress Library.
   * Add CY62256N (256-Kbit Static RAM) at Cypress Library.
   * Add PDIP28 footprint at Cypress Library.
