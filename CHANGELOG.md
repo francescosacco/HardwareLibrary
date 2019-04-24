@@ -1,6 +1,13 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-23 - Add EVQPA at Panasonic Library.
+  * Add EVQPA (5N Type Light Touch Switches) at Panasonic Library.
+  * Add EVQPAx04M footprint at Panasonic Library.
+  * Add EVQPAx05R footprint at Panasonic Library.
+  * Add EVQPAx07K footprint at Panasonic Library.
+  * Add EVQPAx09K footprint at Panasonic Library.
+
 * 2019-04-13 - Add MC6850 at Motorola Library.
   * Add MC6850 (Asynchronous Communications Interface Adapter) at Motorola Library.
   * Add PDIP24 footprint at Motorola Library.
