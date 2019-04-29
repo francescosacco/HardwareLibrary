@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-04-29 - Improve 3D footprint at Zilog library.
+  * Improve 3D footprint for Z84C00xxPEG at Zilog library.
+
 * 2019-04-23 - Add EVQPA at Panasonic Library.
   * Add EVQPA (5N Type Light Touch Switches) at Panasonic Library.
   * Add EVQPAx04M footprint at Panasonic Library.
