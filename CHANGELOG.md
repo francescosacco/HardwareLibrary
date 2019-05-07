@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-05-06 - Fix 3D footprint at Texas Instruments library.
+  * Fix SOT23-5 footprint at Texas Instruments library.
+  * Fix SOT23-6 footprint at Texas Instruments library.
+
 * 2019-04-29 - Improve 3D footprint at Zilog library.
   * Improve 3D footprint for Z84C00xxPEG at Zilog library.
 
