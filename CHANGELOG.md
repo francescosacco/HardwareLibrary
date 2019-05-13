@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-05-13 - Add LP2950 at Texas Instruments library.
+  * Add LP2950 (Micropower Voltage Regulators with Shutdown) at Texas Instruments library.
+
 * 2019-05-06 - Fix 3D footprint at Texas Instruments library.
   * Fix SOT23-5 footprint at Texas Instruments library.
   * Fix SOT23-6 footprint at Texas Instruments library.
