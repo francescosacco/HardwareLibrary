@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-05-15 - Add LP2950 and LP2951 at On Semiconductors library.
+  * Add LP2950 (Micropower Voltage Regulators with Shutdown) at On Semiconductors library.
+  * Add LP2951 (Micropower Voltage Regulators with Shutdown) at On Semiconductors library.
+
 * 2019-05-14 - Add LP2951 at Texas Instruments library.
   * Add LP2951 (Micropower Voltage Regulators with Shutdown) at Texas Instruments library.
 
