@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-05-16 - Add 2N3906 at On Semiconductors library.
+  * Add 2N3906 (PNP Silicon General Purpose Transistors) at On Semiconductors library.
+
 * 2019-05-15 - Add LP2950 and LP2951 at On Semiconductors library.
   * Add LP2950 (Micropower Voltage Regulators with Shutdown) at On Semiconductors library.
   * Add LP2951 (Micropower Voltage Regulators with Shutdown) at On Semiconductors library.
