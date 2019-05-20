@@ -1,6 +1,18 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-05-19 - Add PV36 at Bourns library.
+  * Create Bourns library.
+  * Add PV36 (Trimmer Potentiometers - Lead Sealed Type Multiturn PV36 Series) at Bourns library.
+  * Add PV36W footprint and 3D model at Bourns library.
+  * Add PV36Y footprint and 3D model at Bourns library.
+  * Add PV36X footprint and 3D model at Bourns library.
+  * Add PV36Z footprint and 3D model at Bourns library.
+
+* 2019-05-18 - Add 2N3903 and 2N3904 at On Semiconductors library.
+  * Add 2N3903 (NPN Silicon General Purpose Transistors) at On Semiconductors library.
+  * Add 2N3904 (NPN Silicon General Purpose Transistors) at On Semiconductors library.
+
 * 2019-05-16 - Add 2N3906 at On Semiconductors library.
   * Add 2N3906 (PNP Silicon General Purpose Transistors) at On Semiconductors library.
 
