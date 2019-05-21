@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-05-20 - Add PV36P footprint and 3D model at Bourns library.
+  * Add PV36P footprint and 3D model at Bourns library.
+
 * 2019-05-19 - Add PV36 at Bourns library.
   * Create Bourns library.
   * Add PV36 (Trimmer Potentiometers - Lead Sealed Type Multiturn PV36 Series) at Bourns library.
