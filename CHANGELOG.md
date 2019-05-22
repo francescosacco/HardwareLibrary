@@ -1,6 +1,12 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-05-21 - Add PTV09A at Bourns library.
+  * Add PTV09A-x15 footprint and 3D model (PTV09 Series - 9 mm Potentiometer) at Bourns library.
+  * Add PTV09A-x20 footprint and 3D model (PTV09 Series - 9 mm Potentiometer) at Bourns library.
+  * Add PTV09A-x25 footprint and 3D model (PTV09 Series - 9 mm Potentiometer) at Bourns library.
+  * Add PTV09A-x30 footprint and 3D model (PTV09 Series - 9 mm Potentiometer) at Bourns library.
+
 * 2019-05-20 - Add PV36P footprint and 3D model at Bourns library.
   * Add PV36P footprint and 3D model at Bourns library.
 
