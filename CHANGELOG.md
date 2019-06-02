@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-02 - Add SN74LS05 to Texas Instruments.
+  * Add SN74LS05 (Hex Inverters with Open Collector Outputs) at Texas Instruments library.
+
 * 2019-05-23 - Add PTV09A-2 footprint and 3D model at Bourns library.
   * Add PTV09A-215 footprint and 3D model (PTV09 Series - 9 mm Potentiometer) at Bourns library.
   * Add PTV09A-220 footprint and 3D model (PTV09 Series - 9 mm Potentiometer) at Bourns library.
