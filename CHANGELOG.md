@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-04 - Add SN74LS07 to Texas Instruments.
+  * Add SN74LS07 (Hex Buffers and Drivers with Open-Collector High-Voltage Outputs) at Texas Instruments library.
+
 * 2019-06-03 - Add SN74LS06 to Texas Instruments.
   * Add SN74LS06 (Hex Inverter Buffers and Drivers with Open-Collector High-Voltage Outputs) at Texas Instruments library.
 
