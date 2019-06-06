@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-05 - Add SN74LS26 to Texas Instruments.
+  * Add SN74LS26 (Quadruple 2-Input High-Voltage Positive-NAND Gates) at Texas Instruments library.
+
 * 2019-06-04 - Add SN74LS07 to Texas Instruments.
   * Add SN74LS07 (Hex Buffers and Drivers with Open-Collector High-Voltage Outputs) at Texas Instruments library.
 
