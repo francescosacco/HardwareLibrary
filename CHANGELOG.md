@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-06 - Add SN74LS27 to Texas Instruments.
+  * Add SN74LS27 (Triple 3-Input Positive NOR Gates) at Texas Instruments library.
+
 * 2019-06-05 - Add SN74LS26 to Texas Instruments.
   * Add SN74LS26 (Quadruple 2-Input High-Voltage Positive-NAND Gates) at Texas Instruments library.
 
