@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-08 - Add SN74LS47 to Texas Instruments.
+  * Add SN74LS47 (BCD to Seven Segment Decoders/Drivers) at Texas Instruments library.
+
 * 2019-06-07 - Add SN74LS30 to Texas Instruments.
   * Add SN74LS30 (8-Input Positive-NAND Gates) at Texas Instruments library.
 
