@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-11 - Add CD4030B to Texas Instruments.
+  * Add CD4030B (Quad 2-Input CMOS Exclusive-OR Gate) at Texas Instruments library.
+
 * 2019-06-10 - Add SN74LS49 to Texas Instruments.
   * Add SN74LS49 (BCD to Seven Segment Decoders/Drivers) at Texas Instruments library.
 
