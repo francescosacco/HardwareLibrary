@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-12 - Add CD4068B to Texas Instruments.
+  * Add CD4068B (CMOS 8-Input NAND/AND Gate) at Texas Instruments library.
+
 * 2019-06-11 - Add CD4030B to Texas Instruments.
   * Add CD4030B (Quad 2-Input CMOS Exclusive-OR Gate) at Texas Instruments library.
 
