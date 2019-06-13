@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-13 - Add CD4093B to Texas Instruments.
+  * Add CD4093B (CMOS Quad 2 Input NAND Schmitt-Triggers) at Texas Instruments library.
+
 * 2019-06-12 - Add CD4068B to Texas Instruments.
   * Add CD4068B (CMOS 8-Input NAND/AND Gate) at Texas Instruments library.
 
