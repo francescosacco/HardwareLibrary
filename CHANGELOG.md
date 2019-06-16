@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-15 - Improve CD74HC30 at Texas Instruments.
+  * Improve CD74HC30 (8-Input NAND Gate) at Texas Instruments library.
+
 * 2019-06-14 - Add CD4078B to Texas Instruments.
   * Add CD4078B (CMOS 8-Input NOR/OR Gate) at Texas Instruments library.
 
