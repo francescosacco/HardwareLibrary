@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium. 
 
+* 2019-06-18 - Add CD4028B to Texas Instruments.
+  * Add CD4028B (BCD-to-Decimal Decoder) at Texas Instruments library.
+
 * 2019-06-17 - Add CD4017B and CD4022B to Texas Instruments.
   * Add CD4017B (Decade Counter with 10 Decoded Outputs) at Texas Instruments library.
   * Add CD4022B (Octal Counter with 8 Decoded Outputs) at Texas Instruments library.
