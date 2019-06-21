@@ -1,5 +1,8 @@
 # HardwareLibrary - Changelog
-Hardware Libraries for Altium. 
+Hardware Libraries for Altium.
+
+* 2019-06-20 - Add CD4013B to Texas Instruments.
+  * Add CD4013B (CMOS Dual D-Type Flip-Flop) at Texas Instruments library.
 
 * 2019-06-19 - Add CD4086B to Texas Instruments.
   * Add CD4086B (CMOS Expandable 4-Wide 2-Input AND-OR-INVERT Gate) at Texas Instruments library.
