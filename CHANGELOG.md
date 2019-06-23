@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-06-22 - Add CD4015B to Texas Instruments.
+  * Add CD4015B (CMOS Dual 4-Stage Static Shift Register) at Texas Instruments library.
+
 * 2019-06-21 - Add CD4014B and CD4021B to Texas Instruments.
   * Add CD4014B (CMOS 8-Stage Static Shift Registers) at Texas Instruments library.
   * Add CD4021B (CMOS 8-Stage Static Shift Registers) at Texas Instruments library.
