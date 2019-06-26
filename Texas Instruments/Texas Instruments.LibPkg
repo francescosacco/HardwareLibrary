@@ -54,23 +54,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UVTHHQPK
 
 [Document2]
-DocumentPath=SN65LVDS.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YYEITGPA
-
-[Document3]
 DocumentPath=TMS320.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBRASLCG
 
-[Document4]
+[Document3]
 DocumentPath=TPS54.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNRROWFT
 
-[Document5]
+[Document4]
 DocumentPath=TPS54.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDGEPVRJ
 
-[Document6]
+[Document5]
 DocumentPath=TPS27.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSMCBLRJ
 
-[Document7]
+[Document6]
 DocumentPath=TPS27.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXIEEQJV
 
-[Document8]
+[Document7]
 DocumentPath=SN74.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHSBBNAK
 
-[Document9]
+[Document8]
 DocumentPath=Packaging.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDLMQQYE
 
-[Document10]
+[Document9]
 DocumentPath=TPS22.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEFTUDAH
 
-[Document11]
+[Document10]
 DocumentPath=TPS22.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCUCLCWR
 
-[Document12]
+[Document11]
 DocumentPath=CD40.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNXPMBMO
 
-[Document13]
+[Document12]
 DocumentPath=LM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXTFRLUE
 
-[Document14]
+[Document13]
 DocumentPath=TL16C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXDNMMCJ
 
-[Document15]
+[Document14]
 DocumentPath=ISO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCPXNSMG
 
-[Document16]
+[Document15]
 DocumentPath=LP29.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
