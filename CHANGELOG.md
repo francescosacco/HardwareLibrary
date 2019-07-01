@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-06-30 - Fix SOIC8 footprint and SN65LVDS9638DR at Texas Instruments library.
+
+* 2019-06-27 - Fix SN65LVDS9637DR at Texas Instruments library.
+
 * 2019-06-26 - Fix SN65LVDS389DB at Texas Instruments library.
 
 * 2019-06-25 - Add SN65LVDS9637DR at Test Project in the Texas Instruments library.
