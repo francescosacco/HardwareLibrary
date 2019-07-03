@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-02 - Add SN65LVDS9638DR at Test Project in the Texas Instruments library.
+  * Add SN65LVDS9638DR Type-1 - SOIC8 at Test Project.
+  * Add SN65LVDS9638DR Type-2 - SOIC8 at Test Project.
+
 * 2019-06-30 - Fix SOIC8 footprint and SN65LVDS9638DR at Texas Instruments library.
 
 * 2019-06-27 - Fix SN65LVDS9637DR at Texas Instruments library.
