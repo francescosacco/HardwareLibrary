@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-03 - Add BF494 at Basic Library.
+  * Add BF494 (NPN Medium Frequency Transistors) at Basic Library.
+  * Add TO-92 footprint at Basic Library.
+
 * 2019-07-02 - Add SN65LVDS9638DR at Test Project in the Texas Instruments library.
   * Add SN65LVDS9638DR Type-1 - SOIC8 at Test Project.
   * Add SN65LVDS9638DR Type-2 - SOIC8 at Test Project.
