@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-05 - Add BC54x at Basic Library.
+  * Add BC546/47/48/49/50 (NPN Epitaxial Silicon Transistor) at Basic Library.
+
 * 2019-07-03 - Add BF494 at Basic Library.
   * Add BF494 (NPN Medium Frequency Transistors) at Basic Library.
   * Add TO-92 footprint at Basic Library.
