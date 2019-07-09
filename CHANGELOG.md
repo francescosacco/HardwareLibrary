@@ -1,13 +1,18 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-08 - Add BD135/137/139 and BD136/138/140 at Basic Library.
+  * Add BD135/BD137/BD139 (NPN Epitaxial Silicon Transistor) at Basic Library.
+  * Add BD136/BD138/BD140 (PNP Epitaxial Silicon Transistor) at Basic Library.
+  * Add TO-126 footprint and 3D model at Basic Library.
+
 * 2019-07-05 - Add BC54x at Basic Library.
   * Add BC546/47/48/49/50 (NPN Epitaxial Silicon Transistor) at Basic Library.
 
 * 2019-07-03 - Add BF494 at Basic Library.
   * Add BF494 (NPN Medium Frequency Transistors) at Basic Library.
   * Add TO-92 footprint at Basic Library.
-  * Add 3D mpdel for TO-92 at Basic Library.
+  * Add 3D model for TO-92 at Basic Library.
   * Add 3D model for crystal at Basic Library.
 
 * 2019-07-02 - Add SN65LVDS9638DR at Test Project in the Texas Instruments library.
