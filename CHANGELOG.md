@@ -1,6 +1,17 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-09 - Add LM78xx at ST Microelectronics Library.
+  * Add LM7805 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add LM7806 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add LM7808 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add LM7809 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add LM7812 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add LM7815 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add LM7818 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add LM7824 (Positive voltage regulator ICs) at ST Microelectronics Library.
+  * Add TO-220 footprint and 3D model at ST Microelectronics Library.
+
 * 2019-07-08 - Add BD135/137/139 and BD136/138/140 at Basic Library.
   * Add BD135/BD137/BD139 (NPN Epitaxial Silicon Transistor) at Basic Library.
   * Add BD136/BD138/BD140 (PNP Epitaxial Silicon Transistor) at Basic Library.
