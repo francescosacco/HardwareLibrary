@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-11 - Add second type of SN74HC157 to Texas Instruments.
+  * Add SN74HC157 (Quadruple 2-Line To 1-Line Data Selectors/Mutiplexers) at Texas Instruments library.
+
 * 2019-07-09 - Add LM78xx at ST Microelectronics Library.
   * Add LM7805 (Positive voltage regulator ICs) at ST Microelectronics Library.
   * Add LM7806 (Positive voltage regulator ICs) at ST Microelectronics Library.
