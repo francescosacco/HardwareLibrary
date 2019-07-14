@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-13 Add TMS4416 at Texas Instruments Library.
+  * TMS4416 (16,348 Word by 4-bit Dynamic RAM) at Texas Instruments Library.
+  * Add PDIP18 footprint and 3D model at Texas Instruments Library.
+
 * 2019-07-11 - Add second type of SN74HC157 to Texas Instruments.
   * Add SN74HC157 (Quadruple 2-Line To 1-Line Data Selectors/Mutiplexers) at Texas Instruments library.
 
