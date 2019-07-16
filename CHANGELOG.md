@@ -1,7 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
-* 2019-07-13 Add TMS4416 at Texas Instruments Library.
+* 2019-07-15 - Add TMS4116 at Texas Instruments Library.
+  * TMS4116 (16,348 bit Dynamic RAM) at Texas Instruments Library.
+
+* 2019-07-13 - Add TMS4416 at Texas Instruments Library.
   * TMS4416 (16,348 Word by 4-bit Dynamic RAM) at Texas Instruments Library.
   * Add PDIP18 footprint and 3D model at Texas Instruments Library.
 
