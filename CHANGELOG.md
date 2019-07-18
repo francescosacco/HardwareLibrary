@@ -1,8 +1,11 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-17 - Add 27C128 at Microchip Library.
+  * Add 27C128 (128K - 16K x 8 - CMOS EPROM) at Microchip Library.
+
 * 2019-07-15 - Add TMS4116 at Texas Instruments Library.
-  * TMS4116 (16,348 bit Dynamic RAM) at Texas Instruments Library.
+  * Add TMS4116 (16,348 bit Dynamic RAM) at Texas Instruments Library.
 
 * 2019-07-13 - Add TMS4416 at Texas Instruments Library.
   * TMS4416 (16,348 Word by 4-bit Dynamic RAM) at Texas Instruments Library.
