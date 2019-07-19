@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-18 - Create Maxim library and add MAX485.
+  * Add MAX485 (RS-485 Transceivers) at Maxim Library.
+
 * 2019-07-17 - Add 27C128 at Microchip Library.
   * Add 27C128 (128K - 16K x 8 - CMOS EPROM) at Microchip Library.
 
