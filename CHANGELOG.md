@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-22 - Add HS5101AG at Basic Library.
+  * Add HS5101AG (Display 7-Segments Cathodo Common) at Basic Library.
+  * Add HS5101AG footprint and 3D model at Basic Library.
+
 * 2019-07-18 - Create Maxim library and add MAX485.
   * Add MAX485 (RS-485 Transceivers) at Maxim Library.
 
