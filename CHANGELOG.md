@@ -1,6 +1,11 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-23 - Create Abracon and add ASV.
+  * Add ASV (3.3Vdc HCMOS SMD Crystal Clock Oscillator) at Abracon Library.
+  * Add ASV footprint at Abracon Library.
+  * Add 3D model for ASV at Abracon Library.
+
 * 2019-07-22 - Add HS5101AG at Basic Library.
   * Add HS5101AG (Display 7-Segments Cathodo Common) at Basic Library.
   * Add HS5101AG footprint and 3D model at Basic Library.
