@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-25 - Add ULN200x at ST Microelectronics Library.
+  * Add ULN2001/2/3/4 (Seven Darlington arrays) at ST Microelectronics Library.
+  * Add PDIP16 footprint and 3D model at ST Microelectronics Library.
+
 * 2019-07-23 - Create Abracon and add ASV.
   * Add ASV (3.3Vdc HCMOS SMD Crystal Clock Oscillator) at Abracon Library.
   * Add ASV footprint at Abracon Library.
