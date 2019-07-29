@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-28 - Add AtSAMD21 at Microchip Library.
+  * Add AtSAMD21J (ARM Cortex M0+) at Microchip Library.
+  * Add TQFP64 Footprint at Microchip Library.
+
 * 2019-07-25 - Add ULN200x at ST Microelectronics Library.
   * Add ULN2001/2/3/4 (Seven Darlington arrays) at ST Microelectronics Library.
   * Add PDIP16 footprint and 3D model at ST Microelectronics Library.
