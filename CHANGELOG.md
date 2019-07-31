@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-07-30 - Create Vishay Library and add Si4946BEY transistor.
+  * Add Si4946BEY (Dual N-Channel 60V 175C MOSFET) at Vishay Library.
+  * Add SOIC8 Footprint at Vishay Library.
+
 * 2019-07-28 - Add AtSAMD21 at Microchip Library.
   * Add AtSAMD21J (ARM Cortex M0+) at Microchip Library.
   * Add TQFP64 Footprint at Microchip Library.
