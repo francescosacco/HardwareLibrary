@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-08-01 - Add Si4948BEY transistor at Vishay Library.
+  * Add Si4948BEY (Dual P-Channel 60V 175C MOSFET) at Vishay Library.
+
 * 2019-07-30 - Create Vishay Library and add Si4946BEY transistor.
   * Add Si4946BEY (Dual N-Channel 60V 175C MOSFET) at Vishay Library.
   * Add SOIC8 Footprint at Vishay Library.
