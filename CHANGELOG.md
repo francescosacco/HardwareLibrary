@@ -1,9 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
-* 2019-08-05 - Add Si4056ADY transistor at Vishay Library.
+* 2019-08-05 - Add Si4056ADY, Si4058DY and Si4062DY transistors at Vishay Library.
   * Add Si4056ADY (N-Channel 100V D-S MOSFET) at Vishay Library.
   * Add Si4058DY (N-Channel 100V D-S MOSFET) at Vishay Library.
+  * Add Si4062DY (N-Channel 60V D-S MOSFET) at Vishay Library.
 
 * 2019-08-02 - Add Si4038DY transistor at Vishay Library.
   * Add Si4038DY (N-Channel 40V D-S MOSFET) at Vishay Library.
