@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-08-08 - Add Si4100DY transistor at Vishay Library.
+  * Add Si4100DY (N-Channel 100V D-S MOSFET) at Vishay Library.
+
 * 2019-08-07 - Add Si4090BDY transistor at Vishay Library.
   * Add Si4090BDY (N-Channel 100V D-S MOSFET) at Vishay Library.
 
