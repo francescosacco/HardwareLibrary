@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-08-12 - Add TC4423 transistor at Microchip Library.
+  * Add TC4423 (3A Dual High-Speed Power MOSFET Drivers) at Microchip Library.
+
 * 2019-08-10 - Add Si4101DY transistor at Vishay Library.
   * Add Si4101DY (P-Channel 30V D-S MOSFET) at Vishay Library.
 
