@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-08-13 - Add TC4424 transistor at Microchip Library.
+  * Add TC4424 (3A Dual High-Speed Power MOSFET Drivers) at Microchip Library.
+
 * 2019-08-12 - Add TC4423 transistor at Microchip Library.
   * Add TC4423 (3A Dual High-Speed Power MOSFET Drivers) at Microchip Library.
 
