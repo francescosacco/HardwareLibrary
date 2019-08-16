@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2019-08-15 - Add jumper at Basic Library.
+  * Add Jumper (Jumper for Strap) at Basic Library.
+
 * 2019-08-13 - Add TC4424 and TC4425 transistor at Microchip Library.
   * Add TC4424 (3A Dual High-Speed Power MOSFET Drivers) at Microchip Library.
   * Add TC4425 (3A Dual High-Speed Power MOSFET Drivers) at Microchip Library.
