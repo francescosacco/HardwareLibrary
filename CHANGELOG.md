@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2023-05-04 - Add MAX7000 at Intel Library.
+  * Add MAX7000 (CPLD) at Intel Library.
+
 * 2019-08-15 - Add jumper at Basic Library.
   * Add Jumper (Jumper for Strap) at Basic Library.
 
