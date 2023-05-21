@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2023-05-21 - Create Infineon and add CY62128E at Infineon Library.
+  * Add CY62128E (1-Mbit 128K×8 Static RAM) at Infineon Library.
+
 * 2023-05-04 - Add MAX7000 at Intel Library.
   * Add MAX7000 (CPLD) at Intel Library.
 
