@@ -1,6 +1,10 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2023-05-26 Add CD4049UB and CD4050B at Texas Instruments.
+  * Add CD4049UB (CMOS Hex Inverting Buffer and Converter) at Texas Instruments Library.
+  * Add CD4050B (CMOS Hex Non-Inverting Buffer and Converter) at Texas Instruments Library.
+
 * 2023-05-21 - Create Infineon and add CY62128E at Infineon Library.
   * Add CY62128E (1-Mbit 128K×8 Static RAM) at Infineon Library.
 
