@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2023-10-04 Add HS1511 at HS Dissipadores.
+  * Add HS1511 at HS Dissipadores Library.
+
 * 2023-05-26 Add CD4049UB and CD4050B at Texas Instruments.
   * Add CD4049UB (CMOS Hex Inverting Buffer and Converter) at Texas Instruments Library.
   * Add CD4050B (CMOS Hex Non-Inverting Buffer and Converter) at Texas Instruments Library.
