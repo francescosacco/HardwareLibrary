@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2023-10-05 Add IRF640 at Vishay.
+  * Add IRF640 (Power MOSFET) at Vishay Library.
+
 * 2023-10-04 Add HS1511 at HS Dissipadores.
   * Add HS1511 at HS Dissipadores Library.
 
