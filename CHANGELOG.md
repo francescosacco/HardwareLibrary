@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2023-10-07 Add IR2111 at Infineon.
+  * Add IR2111 (Half-Bridge Driver) at Infineon Library.
+
 * 2023-10-05 Add IRF640 at Vishay.
   * Add IRF640 (Power MOSFET) at Vishay Library.
 
