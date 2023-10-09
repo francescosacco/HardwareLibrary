@@ -1,6 +1,9 @@
 # HardwareLibrary - Changelog
 Hardware Libraries for Altium.
 
+* 2023-10-08 Add Test Point footprint at Basic.
+  * Add Test Point footprint (Hole Screw Size) at Basic Library.
+
 * 2023-10-07 Add IR2111 at Infineon.
   * Add IR2111 (Half-Bridge Driver) at Infineon Library.
 
